@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2022-11-02 09:32</created_at>
+  <created_at>2022-11-02 09:53</created_at>
   <product>
     <uniqueid>e33e77f2-f469-c78f-5164-e7aca44cbb8e</uniqueid>
     <name>Glam επιχρυσωμένα σκουλαρικια Ε.317</name>
@@ -21,6 +21,7 @@
     <description>Glam σκουλαρίκια με μαύρα stras Και πολλούς κρίκους ενωμένους </description>
     <image>https://static.wixstatic.com/media/2cbaff_098a13131dee489fb9a6eba1475b03b2~mv2.jpg</image>
     <category>Σκουλαρίκια</category>
+    <size>11cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/glam-μαύρα-σκουλαρίκια</link>
@@ -34,6 +35,7 @@
     <description>Glam μαύρα σκουλαρίκια με stras με λουλούδια,  συνολικό μήκος 11 εκατοστά </description>
     <image>https://static.wixstatic.com/media/2cbaff_d6bee9f8fffd4c46bd5bc1cff9c9231c~mv2.jpg</image>
     <category>Σκουλαρίκια</category>
+    <size>13cm</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/glam-μαύρα-σκουλαρίκια-1</link>
@@ -60,6 +62,7 @@
     <description>Glam ροζ-χρυσά σκουλαρίκια με stras με λουλούδια συνολικό μήκος 11 εκατοστά</description>
     <image>https://static.wixstatic.com/media/2cbaff_f9414298e08749bd96da7aeb1d76e073~mv2.jpg</image>
     <category>Σκουλαρίκια</category>
+    <size>13cm</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/glam-ροζ-χρυσά-σκουλαρίκια</link>
@@ -114,6 +117,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_a04a9dea459b4191b20cf3d66df705bb~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_5ccdc24a53be41798251159af84d6617~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>22cm</size>
     <weight>44gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ανδρικό-ατσάλινο-βραχιόλι</link>
@@ -128,6 +132,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_1b92d1fb85d24e27a92afd23fb94d61d~mv2.jpg</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_21e774ec5a2943e3ac5e69da3ce6927a~mv2.jpg</additionalImage>
     <category>Δαχτυλίδι</category>
+    <size>Νο. 8</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ασημένιο-δαχτυλίδι-με-ζιργκόν-21</link>
@@ -271,6 +276,7 @@
     <description>Ατσάλινα επιχρυσωμένα σκουλαρίκια σε οβάλ σχήμα μήκος 4cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_6101e9854bcc4ec5b004ed50d16b9ffb~mv2.jpg</image>
     <category>Σκουλαρίκια</category>
+    <size>4,5cm</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-επιχρυσωμένα-σκουλαρίκια-9</link>
@@ -284,6 +290,7 @@
     <description>Ατσάλινα επιχρυσωμένα σκουλαρίκια κρίκοι μήκος 3 εκατοστά </description>
     <image>https://static.wixstatic.com/media/2cbaff_a29c309b2b004aaabc524ed0d0eb792a~mv2.jpg</image>
     <category>Σκουλαρίκια</category>
+    <size>2,5cm</size>
     <weight>14gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-επιχρυσωμένα-σκουλαρίκια-8</link>
@@ -350,6 +357,7 @@
     <description>Ατσάλινα επιχρυσωμένα σκουλαρίκια κρίκοι με πεταλούδες&amp;nbsp;</description>
     <image>https://static.wixstatic.com/media/2cbaff_18b0e288e7304ab5acbb4a0eef8fc8f8~mv2.jpg</image>
     <category>Σκουλαρίκια</category>
+    <size>3cm</size>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-επιχρυσωμένα-σκουλαρίκια-κρίκοι-2</link>
@@ -390,6 +398,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_aa1f84144eb84979a62e82489f5e990a~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_99ae778f930548f0953d9b8b8ad86041~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>4cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-2-χρωμα-σε-χρυσή-και-ασημένια-απόχρωση-1</link>
@@ -404,6 +413,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_c91ba5b2008741f4bd2a0d05d81a8148~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_285a4ce4133444419dd970022659fd41~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>3cm</size>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-2-χρωμα-σε-χρυσή-και-ασημένια-απόχρωση</link>
@@ -417,6 +427,7 @@
     <description>Ατσάλινα σκουλαρίκια σε οβάλ σχήμα μήκος 4 εκατοστα</description>
     <image>https://static.wixstatic.com/media/2cbaff_845d7e7d4d594a82a34e520b2ff71930~mv2.jpg</image>
     <category>Σκουλαρίκια</category>
+    <size>4,5cm</size>
     <weight>10gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-22</link>
@@ -551,6 +562,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_6963e0561b3a4582b35087965395893d~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_62329cd310b349888928481ab5e1c0ac~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>2,5cm</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-ασήμι-απόχρωση</link>
@@ -565,6 +577,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_43a24bcc992d4f6fa268d9b75683eb9f~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_8e38bc57a8214d73a2c1c6ebfb32e57d~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>1.5 cm</size>
     <weight>15gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-ροζ-χρυσή-απόχρωση-1</link>
@@ -579,6 +592,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_13d04945479e4b4f89249b4a57d80bf5~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_ec9791b2bf8a4238af79940ab7e26638~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>2cm</size>
     <weight>15gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-ροζ-χρυσή-απόχρωση</link>
@@ -593,6 +607,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_de728d12e05f47c78559597b9120a577~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_156da2c8a17d40ddb5cfad5bb0f04e19~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>3cm</size>
     <weight>8gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-χρυσή-απόχρωση-3σειρα</link>
@@ -607,6 +622,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_2d034e94f8364f99b63cd1618c252b94~mv2.jpg</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_c860896950d94bdda268a54f9cc5c85f~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>1.5 cm</size>
     <weight>15gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-χρυσή-απόχρωση-9</link>
@@ -621,6 +637,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_d84eaf962d4e41eda88c2bac4e3764e3~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_9a97f6c3674d4f148136898a898124cf~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>1.5 cm</size>
     <weight>9gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-χρυσή-απόχρωση-7</link>
@@ -635,6 +652,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_5ef39de1026b404bad6e31edf9ee9a2a~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_3a63df6efe7f4bc3947716a6a87e8748~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>2cm</size>
     <weight>12gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-χρυσή-απόχρωση-6</link>
@@ -649,6 +667,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_177e3d99114a46659160371fad9949cd~mv2.jpg</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_35a6b250df7b407e92ec2a887709174f~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>3cm</size>
     <weight>8gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-χρυσή-απόχρωση-5</link>
@@ -663,6 +682,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_6796b01947f042f0aedb27a5a964cf8a~mv2.jpg</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_eb29de87d1674227ab1e8e1d4ab8b0bf~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>2,5cm</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-χρυσή-απόχρωση-4</link>
@@ -705,6 +725,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_168c4e95d8034aeea750e59665f6f9c9~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_5a409af9e402426ebcffec27a4cd9daf~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>2,5cm</size>
     <weight>8gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-χρυσή-απόχρωση-ματ</link>
@@ -798,6 +819,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_e916fb789fd54786be98fbcb69226dfa~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_555b021ac9df4a29a8538411388d0390~mv2.jpg</additionalImage>
     <category>Αντρικά Κολιέ</category>
+    <size>60cm</size>
     <weight>47gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινη-αλυσίδα-χοντρή-μήκος-60-εκατοστα</link>
@@ -967,6 +989,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_e6febd93214847d1aa45dd95287ea56d~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_5bc88ee2013f41a1b582f6f76ac1c088~mv2.jpg</additionalImage>
     <category>Αντρικά Κολιέ</category>
+    <size>60cm</size>
     <weight>48gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινη-χοντρή-αλυσίδα-με-ενδιάμεσα-μαύρα-κομμάτια-μήκος-60-εκατοστα</link>
@@ -982,6 +1005,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_c01871d26f484d7b909808ffbf1ec985~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_7620eb43a1a84b14a5aa209a6f44acac~mv2.jpg</additionalImage>
     <category>Αντρικά Κολιέ</category>
+    <size>60cm</size>
     <weight>15gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινη-χοντρή-αλυσίδα-μαύρη-μήκος-60-εκατοστα</link>
@@ -997,6 +1021,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_9fc6c1e4abbb4ace99b29bfdb7254926~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_2c42602af2594ef9a956589cce890753~mv2.jpg</additionalImage>
     <category>Αντρικά Κολιέ</category>
+    <size>60cm</size>
     <weight>47gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινη-χοντρή-αλυσίδα-μαύρη-ασημί-μήκος-60-εκατοστα</link>
@@ -1012,6 +1037,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_cc424f1c79d1421bbd881eae28a6705b~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_4e1d3b7b2457475faa9a22bf619859c0~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>21cm</size>
     <weight>17gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-αντρικό-μαύρο-βραχιόλι-3</link>
@@ -1061,6 +1087,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_04122b161e7c45fd9a68073ec18d5771~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_d7c9a86f8b6c4247b0a5bf1cb3b66353~mv2.jpg</additionalImage>
     <category>Βραχιολια Από Ατσάλι</category>
+    <size>18 cm - 22 cm</size>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-βραχιόλι-με-ημιπολύτιμες-πέτρες-19</link>
@@ -1078,6 +1105,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_8edd0bab0f0143b092e061439f852dab~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_94f7d97e3f8d4fecbdf503cb131dc42b~mv2.jpg</additionalImage>
     <category>Βραχιολια Από Ατσάλι</category>
+    <size>18 cm - 22 cm</size>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-βραχιόλι-με-καρδιές-1</link>
@@ -1153,6 +1181,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_5795bd611ce24c1897affe485d471029~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_b3aa78a59285404e8761f0712443fc25~mv2.jpg</additionalImage>
     <category>Βραχιολια Από Ατσάλι</category>
+    <size>17cm - 20cm</size>
     <weight>11gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-βραχιόλι-put-down-unlock</link>
@@ -1166,6 +1195,7 @@
     <description>Ατσάλινο δαχτυλίδι με ροζ χρυσή λεπτομέρεια τρεισειρο μέγεθος 9</description>
     <image>https://static.wixstatic.com/media/2cbaff_d1292b33c9534975a5b6fd8de90f5216~mv2.jpg</image>
     <category>Δαχτυλίδι</category>
+    <size>Νο. 9</size>
     <weight>9gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-δαχτυλίδι-2</link>
@@ -1180,6 +1210,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_d0902a7307f24b5ab18e51f08e5d6235~mv2.jpg</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_d01cbe11013641abb9a1ee4b56a40d00~mv2.jpg</additionalImage>
     <category>Δαχτυλίδι</category>
+    <size>Νο. 9</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-δαχτυλίδι-3</link>
@@ -1194,6 +1225,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_85ccafe8e9a8400fadfebb01adc4bc33~mv2.jpg</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_a7f4c19c4cc247ff846c4e418bac3ab4~mv2.jpg</additionalImage>
     <category>Δαχτυλίδι</category>
+    <size>Νο. 9</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-δαχτυλίδι-6</link>
@@ -1222,6 +1254,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_fc9c45a45dcc4cd38284239eb5acc923~mv2.jpg</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_421298fcbd5e46aaacefefbb6304925b~mv2.jpg</additionalImage>
     <category>Δαχτυλίδι</category>
+    <size>Νο. 8</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-δαχτυλίδι-με-ζιργκόν-11</link>
@@ -1235,6 +1268,7 @@
     <description>Ατσάλινο δαχτυλίδι με ζιργκόν μέγεθος 7</description>
     <image>https://static.wixstatic.com/media/2cbaff_b9e5e46111ca444ca473b0d511625fb5~mv2.jpg</image>
     <category>Δαχτυλίδι</category>
+    <size>Νο. 7</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-δαχτυλίδι-με-ζιργκόν-12</link>
@@ -1836,6 +1870,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_3fcc986c074242bfa1511490c96ff29a~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_6be02b61e0704ee69ec01a9c7d58d207~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>16cm - 22cm</size>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/βραχιόλι-από-ασήμι-925-mama-2</link>
@@ -1850,6 +1885,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_3a1caa30b4ee4ac2b4df6f4a891333c6~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_fe1aefb3d19c4cf3ae040c68ceb44d69~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>18 cm - 22 cm</size>
     <weight>12gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/βραχιόλι-από-ασήμι-925-αλυσίδα-με-ζιργκόν</link>
@@ -2071,6 +2107,7 @@
     <description>Κολιέ από ασήμι 925 "Chanel" με καρφωτά ζιργκον  μήκος αλυσίδας 42 cm και το Chanel 0.7cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_12b00a51ae5147a19a67a08f09511773~mv2.png</image>
     <category>Κολιέ</category>
+    <size>45cm</size>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-chanel-ns-28</link>
@@ -2084,6 +2121,7 @@
     <description>Κολιέ από ασήμι 925 "chanel" με καρφωτά ζιργκον μήκος αλυσίδας 42 cm  και το  Chanel 0.8cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_4aa210a86c19400e983117696bc9d1a4~mv2.png</image>
     <category>Κολιέ</category>
+    <size>40cm</size>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-chanel-ns-29</link>
@@ -2097,6 +2135,7 @@
     <description>Κολιέ από ασήμι 925 Puma cartier με καρφωτά ζιργκον  μήκος αλυσίδας 40cm   και το  Puma 1.2cm με 1cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_9453e8e08cc148a4acc1f8bbef6c1496~mv2.png</image>
     <category>Κολιέ</category>
+    <size>45cm</size>
     <weight>8gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-puma-cartier-ns-27</link>
@@ -2110,6 +2149,7 @@
     <description>Κολιέ από ασήμι 925 δάκρυ με μαύρο κρύσταλλο και καρφωτά ζιργκον μήκος αλυσίδας 43cm και μήκος δάκρυ 1.50 cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_a309a5ade6d2408088be487c7de4429e~mv2.png</image>
     <category>Κολιέ</category>
+    <size>42cm</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-δάκρυ-με-κρύσταλλο-ns-33</link>
@@ -2124,6 +2164,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_f1236550c74b427eb7662ba60a53dbc0~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_fcb86e859da44de5af08e5c8a48ea3ef~mv2.jpg</additionalImage>
     <category>Κολιέ</category>
+    <size>40cm</size>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-επιχρυσωμένο-μάτι-και-σταυρό-ns-36</link>
@@ -2137,6 +2178,7 @@
     <description>Κολιέ από ασήμι 925 επιχρυσωμένο μονόπετρο  μήκος  40 με 45 cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_4015e47f887f4f5f80eefdbc5d3e9f14~mv2.jpg</image>
     <category>Κολιέ</category>
+    <size>40cm</size>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-επιχρυσωμένο-με-μονόπετρο-ns-34</link>
@@ -2217,6 +2259,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_465995f51d414b5088baa741ba5b3519~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_c7f99708be0442e79fe215699c33ea02~mv2.jpg</additionalImage>
     <category>Κολιέ</category>
+    <size>45cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-κλειδί-ns-32</link>
@@ -2230,6 +2273,7 @@
     <description>Κολιέ από ασήμι 925 μάτι στόχος με καρφωτά ζιργκον Μήκους 40 cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_0fbd5108a28b432ab70a380bc52ffd50~mv2.png</image>
     <category>Κολιέ</category>
+    <size>40cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-μάτι-στόχος-ns-37</link>
@@ -2243,6 +2287,7 @@
     <description>Κολιέ από ασήμι 925 καρδιές με καρφωτά ζιργκον μήκος αλυσίδας 42cm  και η μεγάλη καρδιά 1cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_0894eed8824e4d8190353af42ba9f3f3~mv2.jpg</image>
     <category>Κολιέ</category>
+    <size>40cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-με-καρδιές-ns-31</link>
@@ -2258,6 +2303,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_076f2cbf3f2941ea9ad121edcfae2c54~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_7380eaa2d16742729bc6c755c6c53c71~mv2.png</additionalImage>
     <category>Κολιέ</category>
+    <size>50cm</size>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-ροζ-επιχρυσωμένο-κωνσταντινάτο-ns-39</link>
@@ -2284,6 +2330,7 @@
     <description>Κολιέ από ασήμι 925 Σταυρός με καρφωτά ζιργκον μήκος  αλυσίδας  40cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_80ddd975f146438eac1de3b42d6e0154~mv2.png</image>
     <category>Κολιέ</category>
+    <size>40cm</size>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-σταυρός-ns-38</link>
@@ -2297,6 +2344,7 @@
     <description>Κολιέ από ασήμι 925 Σταυρός με καρφωτά ζιργκον</description>
     <image>https://static.wixstatic.com/media/2cbaff_8daf7f752ba748da84860e2a60479bf5~mv2.png</image>
     <category>Κολιέ</category>
+    <size>45cm</size>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-σταυρός-με-καρφωτά-ζιργκον-ns-37</link>
@@ -2310,6 +2358,7 @@
     <description>Κολιέ από ασήμι 925 φτερό αγγέλου με καρφωτά ζιργκον μήκος αλυσίδας 42cm και το φτερό 1.2 cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_9f2937ab3d0c4ae4b42151594ae85fcc~mv2.png</image>
     <category>Κολιέ</category>
+    <size>40cm</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-φτερό-αγγέλου-με-καρφωτά-ζιργκον-ns-30</link>
@@ -2379,6 +2428,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_8b35e95499ec4e6d8b76a9b59840bb19~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_40ad163256af461289d2e1fa86d1ed6a~mv2.jpg</additionalImage>
     <category>Αντρικά Κολιέ</category>
+    <size>60cm</size>
     <weight>13gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ατσάλι-με-σταυρό-5</link>
@@ -2393,6 +2443,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_7adb5645a8c249aca3d2c0935fa4fdb7~mv2.jpg</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_edee73f32cb0488a87955045ee59509e~mv2.jpg</additionalImage>
     <category>Αντρικά Κολιέ</category>
+    <size>60cm</size>
     <weight>13gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ατσάλι-με-σταυρό-2</link>
@@ -2672,6 +2723,7 @@
     <description>Κολιέ ροζ επιχρυσωμένο ασήμι 925 "Chanel" με καρφωτά ζιργκον μήκος αλυσίδας  42 cm και το Chanel 0.8cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_f4e2d2ffa8264366806f94d095adc325~mv2.png</image>
     <category>Κολιέ</category>
+    <size>40cm</size>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-ροζ-επιχρυσωμένο-ασήμι-925-chanel-ns-26</link>
@@ -2724,6 +2776,7 @@
     <description>Κολιέ ροζ επιχρυσωμένο ασήμι 925 κορώνα  μήκος αλυσίδας 40cm και κορώνα 1.2cm με 1cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_7f99213b840046e3b24174da8debf5d9~mv2.jpg</image>
     <category>Κολιέ</category>
+    <size>40cm</size>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-ροζ-επιχρυσωμένο-ασήμι-925-κορώνα-ns-25</link>
@@ -2737,6 +2790,7 @@
     <description>Κολιέ ροζ επιχρυσωμένο ασήμι 925 πέταλο με καρφωτά ζιργκον με στριφτη  αλυσίδα  μήκος 50cm και το πεταλακι 2 επί 2cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_7ab64872461143108f3b0bd0547ec23c~mv2.jpg</image>
     <category>Κολιέ</category>
+    <size>50cm</size>
     <weight>8gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-ροζ-επιχρυσωμένο-ασήμι-925-πέταλο-με-καρφωτά-ζιργκον-ns-24</link>
@@ -2750,6 +2804,7 @@
     <description>Κολιέ ροζ επιχρυσωμένο ασήμι 925 πεταλούδα με στριφτη αλυσίδα με στριφτη αλυσίδα μήκος 50cm και πεταλούδα 1.5 cm επί 1.5cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_457f1f28ee104d7da3ab05d837236c04~mv2.jpg</image>
     <category>Κολιέ</category>
+    <size>50cm</size>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-ροζ-επιχρυσωμένο-ασήμι-925-πεταλούδα-ns-23</link>
@@ -2835,6 +2890,7 @@
     <description>Glam σκουλαρίκια με μαύρα stras με δύο κρίκους ενωμένους μεταξύ τους συνολικό μήκος 8 εκατοστά </description>
     <image>https://static.wixstatic.com/media/2cbaff_9e670cfc29924b49a1c5d086641a1bd3~mv2.jpg</image>
     <category>Σκουλαρίκια</category>
+    <size>8cm</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/μαύρα-glam-σκουλαρίκια</link>
@@ -3055,6 +3111,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_a65c44b4f5a34ac6889ec58c13fa7e8b~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_47e7f9c4360b4ceaa72f1dfb980c0a63~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>1.5 cm</size>
     <weight>12gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ασήμι-925-κρίκοι-με-καρφωτά-ζιργκον</link>
@@ -3069,6 +3126,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_400762c5d29e450ca18dbbfb567b534b~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_216b7059db8a45109570e29ddc2661b0~mv2.jpg</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>1.5 cm</size>
     <weight>9gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ασήμι-925-κρίκοι-με-καρφωτά-ζιργκον-esl6</link>
@@ -3109,6 +3167,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_5459d0f6c86f44de94cb1542b9923dc8~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_d4945ee83f224bada4850953fa9a7d69~mv2.png</additionalImage>
     <category>Σκουλαρίκια</category>
+    <size>1.5 cm</size>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ασήμι-925-με-καρφωτά-ζιργκον-esl-1</link>
@@ -3270,6 +3329,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_fb55b3f06db5490f9a9bb0a3b60f9899~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_9aa481afac3a453ea260ab07ed8a4391~mv2.jpg</additionalImage>
     <category>Βραχιολια Από Ατσάλι</category>
+    <size>18 cm - 22 cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-ατσάλινο-βραχιόλι-6</link>
@@ -3287,6 +3347,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_6005390565c9482f9c76523858587716~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_daacf33d2472425fa47b7d7a907d89a0~mv2.jpg</additionalImage>
     <category>Βραχιολια Από Ατσάλι</category>
+    <size>17cm - 20cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-ατσάλινο-βραχιόλι-5</link>
@@ -3304,6 +3365,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_03c39d7710d243abb2d682bd1c668de5~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_ee2252c1a1e84bbba5cc87836831b741~mv2.jpg</additionalImage>
     <category>Βραχιολια Από Ατσάλι</category>
+    <size>20cm - 22cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-ατσάλινο-βραχιόλι-με-μαργαριτάρια-1</link>
@@ -3370,6 +3432,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_f8e1114255fb44d484968e3d9f6ec83f~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_cd48bfaa08bb46fda12b01d37663fdb6~mv2.jpg</additionalImage>
     <category>Βραχιολια Από Ατσάλι</category>
+    <size>20cm</size>
     <weight>14gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-με-ατσάλινη-αλυσίδα-και-μαργαριτάρια</link>
@@ -3387,6 +3450,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_30abf20567054f4cac249600a53f3087~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_6dcad7711d5742f294b0b99392ac1607~mv2.jpg</additionalImage>
     <category>Βραχιολια Από Ατσάλι</category>
+    <size>20cm</size>
     <weight>7gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-με-κρύσταλλα</link>
@@ -3402,6 +3466,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_6ac89eb1355a4e0090c44d3c6ee3cd80~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_96774bc0c4d74a29bdf373e6cbc76073~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>20cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-χειροποίητο-βραχιόλι</link>
@@ -3418,6 +3483,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_eb4f09646ab94923a1059b0b25b2a2b3~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_5d28f2485b4e4e399f3909266470437b~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>17cm - 20cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-με-μαργαριτάρια-3</link>
@@ -3432,6 +3498,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_f8971ae760da40a7bbf9df3d621750ab~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_ab5b088182634e108486ce380fa0c70c~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>18 cm - 22 cm</size>
     <weight>10gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-με-μαργαριτάρια-6</link>
@@ -3447,6 +3514,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_9c19cc5d1c3047c79e4d3f8a410737e9~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_df7322b98ec44703b774d56c888bf6c0~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>17cm - 20cm</size>
     <weight>12gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-με-μαργαριτάρια-5</link>
@@ -3462,6 +3530,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_12c862c833194def8b0d29ba9fb5cbf9~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_959c284173604e21870605c414e0b677~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>18 cm - 22 cm</size>
     <weight>8gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/xeiropoiito-vraxioli-me-margaritaria</link>
@@ -3476,6 +3545,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_cc4f1690428a4e3cb28850119a974a31~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_76a4f51a10e7474cbe021b906633af7f~mv2.jpg</additionalImage>
     <category>Βραχιολια Χειροποιητα</category>
+    <size>18 cm - 22 cm</size>
     <weight>12gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-με-μαργαριτάρια-και-κοράλια</link>
@@ -3490,6 +3560,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_a39e9763b9624b21b971b8c04e123c4c~mv2.jpg</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_da8ba8a1ed3d46e6bca397fb1eeeecd8~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>18cm</size>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-με-μαργαριτάρια-και-κοράλλι</link>
@@ -3504,6 +3575,7 @@
     <image>https://static.wixstatic.com/media/2cbaff_40b2eb0e01414a4f8979ed374f207903~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_9a706fa12cfe4c399c7fefdd0e37f128~mv2.jpg</additionalImage>
     <category>Βραχιολια Χειροποιητα</category>
+    <size>18 cm - 22 cm</size>
     <weight>12gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-με-μαργαριτάρια-και-κρύσταλλα</link>
@@ -3519,6 +3591,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_652d27d8c0954e34b89f963b5fe61fdc~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_1c862e385ae440c8938233d4bc5e9082~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>17cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-ελαστικό-βραχιόλι-1</link>
@@ -3534,6 +3607,7 @@
     <additionalImage>https://static.wixstatic.com/media/2cbaff_0e6264dc094e48fc81fda24ecf8fb612~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_ef1f37a143c6432cb474322ef3111ffd~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
+    <size>18cm</size>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-ελαστικό-βραχιόλι-4</link>
