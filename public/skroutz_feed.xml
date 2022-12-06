@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2022-12-01 18:54</created_at>
+  <created_at>2022-12-06 12:29</created_at>
   <product>
     <uniqueid>e33e77f2-f469-c78f-5164-e7aca44cbb8e</uniqueid>
     <name>Glam επιχρυσωμένα σκουλαρικια Ε.317</name>
@@ -1462,19 +1462,6 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>6b25ca12-10ea-b025-d495-d7f1bb6d8da4</uniqueid>
-    <name>Ατσάλινο διπλό κολιέ NST.546</name>
-    <sku>94da35ed-ef15-4fda-2b6a-280e4492725b</sku>
-    <description>Ατσάλινο κολιέ με διπλή αλυσίδα σε ασημί απόχρωση και κρεμαστή καρδιά.Διαστάσεις 40-50cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_c0718662897f4172a4a8e6b6b2912da1~mv2.jpg</image>
-    <category>Κολιέ</category>
-    <weight>5gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/ατσάλινο-διπλό-κολιέ-nst-546</link>
-    <price>15.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <uniqueid>05ff3266-518c-b403-c8cf-969d13eec009</uniqueid>
     <name>Ατσάλινο διπλό κολιέ ΝST.70</name>
     <sku>fa00cd99-ae73-4bfc-3730-6962ec113ff6</sku>
@@ -1562,7 +1549,7 @@
     <name>Ατσάλινο επιχρυσωμένο διπλό κολιέ NST.555</name>
     <sku>c951323b-9186-9fad-049c-3403a20fdb51</sku>
     <description>Ατσάλινο επιχρυσωμένο διπλό κολιέ με αστεράκια και ορθογώνιο ατσάλινο στοιχείο.Διαστάσεις 40-50cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_5b0888072a6d42c2a04240dfd62c2d7c~mv2.jpg</image>
+    <image>https://static.wixstatic.com/media/2cbaff_22e027ad44914a9da6ae983b711a3ac8~mv2.png</image>
     <category>Κολιέ</category>
     <weight>10gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
@@ -1686,7 +1673,7 @@
     <name>Ατσάλινο επιχρυσωμένο κολιέ NST.541</name>
     <sku>a0187186-8500-d567-aaa7-5aec31f15570</sku>
     <description>Ατσάλινο επιχρυσωμένο κολιέ με κεντρικό ορθογώνιο στοιχείο με πράσινο κρύσταλλο και καρφωτά ζιργκόν.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_c726ab10e3b1413e9e8b52e855756868~mv2.jpg</image>
+    <image>https://static.wixstatic.com/media/2cbaff_94623dd5a3ec43a1b985f618bddf9aa0~mv2.png</image>
     <category>Κολιέ</category>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
@@ -1704,32 +1691,6 @@
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-επιχρυσωμένο-κολιέ-nst-554</link>
-    <price>14.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>116195bc-4a45-5024-fcc9-18ea5fb1bbda</uniqueid>
-    <name>Ατσάλινο επιχρυσωμένο κολιέ NST.557</name>
-    <sku>ee9e6a43-b5ba-afdb-0336-e715a04e4425</sku>
-    <description>Ατσάλινο επιχρυσωμένο κολιέ με στριφτή αλυσίδα,μπλε ορθογώνιο κρύσταλλο και καρφωτά ζιργκόν.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_1f6841c5f79c4eba81243ebf732f95af~mv2.jpg</image>
-    <category>Κολιέ</category>
-    <weight>6gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/ατσάλινο-επιχρυσωμένο-κολιέ-nst-557</link>
-    <price>17.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>2361544b-cde2-1fe5-5298-3d86fdcd50c5</uniqueid>
-    <name>Ατσάλινο επιχρυσωμένο κολιέ NST.558</name>
-    <sku>dc9eabb4-321d-e01a-ad67-c2790232af3a</sku>
-    <description>Ατσάλινο επιχρυσωμένο κολιέ Κωνσταντινάτο με μπλε ζιργκόν.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_6ab316b29b4f47f7a1fd35e88e45b856~mv2.jpg</image>
-    <category>Κολιέ</category>
-    <weight>4gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/ατσάλινο-επιχρυσωμένο-κολιέ-nst-558</link>
     <price>14.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
@@ -1765,7 +1726,7 @@
     <name>Ατσάλινο επιχρυσωμένο κολιέ αρκουδάκι NST.540</name>
     <sku>b9792b21-a28d-60b5-151f-b0861c660abb</sku>
     <description>Ατσάλινο επιχρυσωμένο κολιέ αρκουδάκι με πράσινο κρύσταλλο και καρφωτά ζιργκόν.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_d3ebdca757764c68b2cd52c129843787~mv2.jpg</image>
+    <image>https://static.wixstatic.com/media/2cbaff_582ee002afff447d855b551578090db4~mv2.png</image>
     <category>Κολιέ</category>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
@@ -1778,7 +1739,7 @@
     <name>Ατσάλινο επιχρυσωμένο κολιέ δάκρυ NST.556</name>
     <sku>ff71bd16-e91a-e46a-60cb-89d05a478dea</sku>
     <description>Ατσάλινο επιχρυσωμένο κολιέ δάκρυ με στριφτή αλυσίδα,μπλε κρύσταλλο και καρφωτά ζιργκόν.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_998142fc3f754784bfa970513fe170a1~mv2.jpg</image>
+    <image>https://static.wixstatic.com/media/2cbaff_b6bdcbccdcd142f88df8d74d49e8b597~mv2.png</image>
     <category>Κολιέ</category>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
@@ -1899,7 +1860,7 @@
     <name>Ατσάλινο επιχρυσωμένο κολιέ Κωνσταντινάτο NST.543</name>
     <sku>f7653f5f-ceac-5fd3-811a-c14d69413014</sku>
     <description>Ατσάλινο επιχρυσωμένο κολιέ Κωνσταντινάτο με καρφωτά πράσινα ζιργκόν.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_3267f498d97a49fcacabe434437e6546~mv2.jpg</image>
+    <image>https://static.wixstatic.com/media/2cbaff_02610f237c564384aeb63a38d8cf7df5~mv2.png</image>
     <category>Κολιέ</category>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
@@ -2143,6 +2104,45 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>80ac75ed-6bdc-06cc-c8e3-e8a73a2399a5</uniqueid>
+    <name>Ατσάλινο κολιέ επιχρυσωμένο NST.560</name>
+    <sku>7f538a12-9423-f933-371c-1758c5dc665a</sku>
+    <description>Ατσάλινο μακρύ επιχρυσωμένο κολιέ με κεντρική τετράγωνη γυάλινη λευκή χάντρα.Διάσταση 60cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_b9b5337f3f2a4d3eb39262737d8667e3~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>10gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-επιχρυσωμένο-nst-560</link>
+    <price>11.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>e52092f4-18ca-fcb0-3a10-66ac98ea0171</uniqueid>
+    <name>Ατσάλινο κολιέ επιχρυσωμένο αρκουδάκι NST.558</name>
+    <sku>1adf6d0b-e735-034f-c5ef-99536715fe8e</sku>
+    <description>Ατσάλινο κολιέ επιχρυσωμένο αρκουδάκι με καρφωτά ζιργκόν και διαφανή καρδιά κρυστάλλινη.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_d129dd59dd864f83a672bcc855c634a3~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>6gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-επιχρυσωμένο-αρκουδάκι-nst-558</link>
+    <price>14.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>786ec820-7351-4749-2113-89ba6ea31b3c</uniqueid>
+    <name>Ατσάλινο κολιέ επιχρυσωμένο φτερά NST.559</name>
+    <sku>879137df-8cae-b8b6-deec-7645915ce4c3</sku>
+    <description>Ατσάλινο κολιέ επιχρυσωμένο με φτερά αγγέλου με καρφωτά ζιργκόν, βέρα και κρύσταλλο.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_a4d782066cc4431cb8d4f3a437c3e841~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>7gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-επιχρυσωμένο-φτερά-nst-559</link>
+    <price>15.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>e860e890-f429-2cb5-0ef2-d531651e44dd</uniqueid>
     <name>Ατσάλινο κολιέ καρδιά NST.550</name>
     <sku>179f176f-0bd6-d34a-f10d-2ace9ae1bb22</sku>
@@ -2160,7 +2160,7 @@
     <name>Ατσάλινο κολιέ καρδιά NST.551</name>
     <sku>41d25835-4974-26a5-091a-6bbae4909a3f</sku>
     <description>Ατσάλινο κολιέ καρδιά με μπλε μάτι στο εσωτερικό της.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_43934906934e4757a7732bb43b853634~mv2.jpg</image>
+    <image>https://static.wixstatic.com/media/2cbaff_38d2b0fd2d0e44de9460290c9483f1ec~mv2.png</image>
     <category>Κολιέ</category>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
@@ -2229,7 +2229,7 @@
     <name>Ατσάλινο κολιέ μάτι NST.546</name>
     <sku>69759460-ccca-8b17-f2bd-6f503dba3093</sku>
     <description>Ατσάλινο κολιέ μάτι σε ασημί απόχρωση με καρφωτά πολύχρωμα ζιργκόν και μάτι περαστο στο πλάι.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_0cc0ef291f044a058fd4333599c09c21~mv2.jpg</image>
+    <image>https://static.wixstatic.com/media/2cbaff_13d6f31d19f741cf9f59473e72cb0958~mv2.png</image>
     <category>Κολιέ</category>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
@@ -2242,11 +2242,24 @@
     <name>Ατσάλινο κολιέ μάτι NST.547</name>
     <sku>a3f66c34-5d38-8a59-9165-7680949c717b</sku>
     <description>Ατσάλινο κολιέ μάτι σε ασημί απόχρωση με κρεμαστό δάκρυ.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_8b2f7eb4325c4fa6bca50973bae0565e~mv2.jpg</image>
+    <image>https://static.wixstatic.com/media/2cbaff_f88562f87afb430b9edafdc687512424~mv2.png</image>
     <category>Κολιέ</category>
     <weight>6gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-μάτι-nst-547</link>
+    <price>16.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>c09a0365-ae77-5b5e-d449-26dbab7a5255</uniqueid>
+    <name>Ατσάλινο κολιέ μάτι NST.557</name>
+    <sku>3f65fc9a-5188-a4a1-2bb6-d9245485adaa</sku>
+    <description>Ατσάλινο κολιέ μάτι με περιμετρικά καρφωτά διάφανα ζιργκόν.Διαστάσεις 40-45cm</description>
+    <image>https://static.wixstatic.com/media/2cbaff_618abf55603a4527a83ad6d89dd498a4~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-μάτι-nst-557</link>
     <price>16.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
@@ -2718,20 +2731,6 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>dbffb272-bd81-d808-e612-e1918bebd7a3</uniqueid>
-    <name>Ατσάλινος επιχρυσωμένος Σταυρός 5.22</name>
-    <sku>24004d8d-427e-27f7-19ed-1e6e7414285c</sku>
-    <description>Ατσάλινος επιχρυσωμένος Σταυρός με πράσινους κρυστάλλους,και αλυσιδα από ατσάλι. Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_e3b2d3b223ba4b4488fd9092a58b69f4~mv2.png</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_1ca3bedf90e9485d8b4a615e58636604~mv2.jpg</additionalImage>
-    <category>Κολιέ</category>
-    <weight>12gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/ατσάλινος-επιχρυσωμένος-σταυρός-5-22</link>
-    <price>17.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <uniqueid>22e1d65f-6ce4-cc84-7b61-800390f4e41d</uniqueid>
     <name>Ατσάλινος επιχρυσωμένος σταυρός Cr.14</name>
     <sku>dd1e29a0-931b-337b-849e-7ffc6f0b1be2</sku>
@@ -2748,7 +2747,7 @@
     <uniqueid>0580cb81-49d2-b494-320d-8128468a44fd</uniqueid>
     <name>Ατσάλινος επιχρυσωμένος Σταυρός NST.519</name>
     <sku>fa7f347e-b62d-4b6b-cdf2-7ed7b975bb02</sku>
-    <description>Ατσάλινος επιχρυσωμένος Σταυρός με καρφωτά ζιργκόν.Διαστάσεις 40-45cm</description>
+    <description>Ατσάλινος επιχρυσωμένος Σταυρός με καρφωτά ζιργκόν καιαλυσίδα.Διαστάσεις 40-45cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_d55d813adafd4117a1c7cda271a49634~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_8f2079aa684740b3a10b7f9ae6cb8393~mv2.jpg</additionalImage>
     <category>Κολιέ</category>
@@ -2759,10 +2758,24 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>dbffb272-bd81-d808-e612-e1918bebd7a3</uniqueid>
+    <name>Ατσάλινος επιχρυσωμένος Σταυρός με αλυσίδα 5.22</name>
+    <sku>24004d8d-427e-27f7-19ed-1e6e7414285c</sku>
+    <description>Ατσάλινος επιχρυσωμένος Σταυρός με πράσινους κρυστάλλους,και αλυσιδα από ατσάλι. Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_e3b2d3b223ba4b4488fd9092a58b69f4~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_1ca3bedf90e9485d8b4a615e58636604~mv2.jpg</additionalImage>
+    <category>Κολιέ</category>
+    <weight>12gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινος-επιχρυσωμένος-σταυρός-5-22</link>
+    <price>17.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>f86e6521-c2f9-2717-9003-269ed0cdd9ed</uniqueid>
     <name>Ατσάλινος πολύχρωμος σταυρός NST.511</name>
     <sku>07919ade-3d06-d8e8-6ffc-d9612f322612</sku>
-    <description>Ατσάλινος πολύχρωμος σταυρός με καρφωτά ζιργκόν.Διαστάσεις 40-45 cm.</description>
+    <description>Ατσάλινος πολύχρωμος σταυρός με καρφωτά ζιργκόν καιαλυσίδα.Διαστάσεις 40-45 cm.</description>
     <image>https://static.wixstatic.com/media/2cbaff_798e039d5aee4747982e0b6cbf850fb0~mv2.png</image>
     <additionalImage>https://static.wixstatic.com/media/2cbaff_b69e5789e53a4c1c928522b4c21a90b1~mv2.jpg</additionalImage>
     <category>Κολιέ</category>
@@ -3017,6 +3030,104 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>f84d7636-37d3-11ef-0c49-46cba1310803</uniqueid>
+    <name>Γούρι ατσάλινο αστέρια GH.18</name>
+    <sku>07b289c9-c82c-ee10-f3b6-b9345ecef7fc</sku>
+    <description>Γούρι ατσάλινο βραχιόλι με επιχρυσωμένη αλυσίδα ροζάριο με κόκκινες χάντρες και αστέρια.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_45da5a422c7843f29babaa6c1e1814eb~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_315506926ac04eaeb0a9d5dcc8efaa45~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-αστέρια-gh-18</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>20b09e3f-52cc-43b1-026e-7a2de0b38aa5</uniqueid>
+    <name>Γούρι ατσάλινο βραχιόλι 23 GH.28</name>
+    <sku>df4f61c0-ad33-bc4e-fd91-85d21f4c755a</sku>
+    <description>Γούρι ατσάλινο βραχιόλι με κρύσταλλα,πέρλες και κρεμαστό 23.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_d3455af77cce41b5a53d82f3bc28217b~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_48cd8efb1cdb46d38aada7c82e0b7359~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-23-gh-28</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>24fc557c-3ec9-497e-e3b2-4b979c0b9baf</uniqueid>
+    <name>Γούρι ατσάλινο βραχιόλι 23 GH.29</name>
+    <sku>db03aa83-c136-b681-1c4d-b46863f46450</sku>
+    <description>Γούρι ατσάλινο βραχιόλι με κρύσταλλα,αιματίτες και στοιχείο 23.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_ea73c5d703424813bba3f9dbf002ed6f~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_888ef702dd604b5ab0d962f1c4132971~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-23-gh-29</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>47e83525-8034-e1b3-57eb-7d7fa455e71e</uniqueid>
+    <name>Γούρι ατσάλινο βραχιόλι 23 GH.30</name>
+    <sku>b817cada-7fcb-1e4c-a814-82805baa18e1</sku>
+    <description>Γούρι ατσάλινο βραχιόλι με αιματίτες,κρύσταλλα και στοιχείο 23.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_109c720b23c148869d517a4009e91cdd~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_3355983cf96c413cbf8f038a02fb319e~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-23-gh-30</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>cacfa0ca-05d3-ed0a-5185-87d9d1669095</uniqueid>
+    <name>Γούρι ατσάλινο βραχιόλι 23 GH.31</name>
+    <sku>35305f35-fa2c-12f5-ae7a-78262e996f6a</sku>
+    <description>Γούρι ατσάλινο βραχιόλι με κόκκινα κρύσταλλα,κεραμικό μάτι και στοιχείο 23.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_c624bb7000764f4981ab5ff2b54f76a2~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_4d9aa67d7edf4aa39cadfe32ba331167~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-23-gh-31</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>c845daf2-1551-2f3a-02ac-8508355f6499</uniqueid>
+    <name>Γούρι ατσάλινο βραχιόλι GH.20</name>
+    <sku>37ba250d-eaae-d0c5-fd53-7af7caa09b66</sku>
+    <description>Γούρι ατσάλινο βραχιόλι με δέντρο της ζωής και κρεμαστό πράσινο κρύσταλλο.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_3d8a30c47ea24eddbc0989b06f096f0e~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_ced6b06c1a7b4c9cb0d8586144e6e628~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-gh-20</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>ff096da2-45ab-cb12-c73d-1e366d84aa16</uniqueid>
+    <name>Γούρι ατσάλινο βραχιόλι GH.22</name>
+    <sku>00f6925d-ba54-34ed-38c2-e1c9927b55e9</sku>
+    <description>Γούρι ατσάλινο βραχιόλι με αιματίτες κρύσταλλα και 23.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_5a52c5e1f4c84e50a506865c1cebc349~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_a14b3e34055d454e8ffd07ff8a987f71~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>6gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-gh-22</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>bd542381-4108-9937-5c2b-9908a4874b34</uniqueid>
     <name>Γούρι ατσάλινο βραχιόλι αστέρι GH.04</name>
     <sku>42abdc7e-bef7-66c8-a3d4-66f75b78b4cb</sku>
@@ -3030,6 +3141,103 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-αστέρι-gb-04</link>
     <price>11</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>dd8ce0ff-a352-aec1-181c-2224a0956789</uniqueid>
+    <name>Γούρι ατσάλινο βραχιόλι αστέρι GH.27</name>
+    <sku>22731f00-5cad-513e-e7e3-dddb5f6a9876</sku>
+    <description>Γούρι ατσάλινο βραχιόλι αστέρι σε ασημί απόχρωση.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_9f2b34d5ef1141b5a886cc7d742808a0~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_e2ff62dc5efe49539d4cd1635e530d13~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-αστέρι-gh-27</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>7f194c1c-739d-d850-6926-7b1d4324b933</uniqueid>
+    <name>Γούρι ατσάλινο βραχιόλι αστέρια GH.19</name>
+    <sku>80e6b3e3-8c62-27af-96d9-84e2bcdb46cc</sku>
+    <description>Γούρι ατσάλινο βραχιόλι επιχρυσωμένο ροζάριο με λευκές και γκρι πέρλες και αστέρια.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_d2f5afbb3e9942538152c862a6b77a27~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_ab3ea884c19c4e18a93ef32505408704~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-αστέρια-gh-19</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>14245cc2-d830-e933-e96f-0285d865f25c</uniqueid>
+    <name>Γούρι ατσάλινο βραχιόλι ροζ χρυσό GH.21</name>
+    <sku>ebdba33d-27cf-16cc-1690-fd7a279a0da3</sku>
+    <description>Γούρι ατσάλινο βραχιόλι ροζ χρυσό με δέντρο της ζωής και διάφανο κρεμαστό κρύσταλλο.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_f486be8919dd4af68bee23a7ad03a6d6~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_f1a2f086b394461fb8d7ac168cbc2753~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-ροζ-χρυσό-gh-21</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>1691087a-e1da-4610-e122-cb30e61d848c</uniqueid>
+    <name>Γούρι ατσάλινο βραχιόλι ροζάριο GH.26</name>
+    <sku>e96ef785-1e25-b9ef-1edd-34cf19e27b73</sku>
+    <description>Γούρι ατσάλινο βραχιόλι ροζάριο με πράσινες γυάλινες πέτρες,τετράφυλλο τριφύλλι και περαστό ζιργκόν.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_b1c337834f4c4938a8cb3d80f193d0e6~mv2.png</image>
+    <category>Γούρι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-ροζάριο-gh-26</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>651c3a9e-1454-718d-7f94-8e09a668de88</uniqueid>
+    <name>Γούρι ατσάλινο βραχιόλι ‘23 GH.17</name>
+    <sku>9ae3c561-ebab-8e72-806b-71f659972177</sku>
+    <description>Γούρι ατσάλινο βραχιόλι επιχρυσωμένο ροζάριο με λευκές και γκρι πέρλες και στοιχείο 23.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_e1572afe03f047178151caa5d20e96ca~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_38bd71c2dfcd483d80c107f5de4e2427~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>3gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-βραχιόλι-23-gh-17</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>d7616c37-beb4-6648-d376-1dfda04cccc5</uniqueid>
+    <name>Γούρι ατσάλινο ροζ χρυσό GH.15</name>
+    <sku>289e93c8-414b-99b7-2c89-e2025fb3333a</sku>
+    <description>Γούρι ατσάλινο ροζ χρυσό με δέντρο της ζωής.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_a10e71db2d304278b7439ddd7f860555~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_c8ee0532d5994be194cbf36b64f1c46c~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>3gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-ροζ-χρυσό-gh-15</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>60dd5318-1870-e7f1-ffdc-6bae05f56c0b</uniqueid>
+    <name>Γούρι ατσάλινο ροζ χρυσό GH.16</name>
+    <sku>9f22ace7-e78f-180e-0023-9451fa0a93f4</sku>
+    <description>Γούρι ατσάλινο βραχιόλι ροζ χρυσό με φτερό και κρεμαστό ζιργκόν.Διαστάσεις 18-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_af5ba79e406e484687a3290caaa93aae~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_d02e46b81d934346af533f4c5a4fbf1c~mv2.png</additionalImage>
+    <category>Γούρι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-ατσάλινο-ροζ-χρυσό-gh-16</link>
+    <price>13.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -3061,21 +3269,6 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/γούρι-βραχιόλι-ατσάλι-ροζ-χρυσό-gb-03</link>
     <price>11.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>401c1872-8a8e-be96-4907-1be67bc43c2e</uniqueid>
-    <name>Γούρι βραχιόλι επιχρυσωμένο GH.08</name>
-    <sku>bfe3e78d-7571-4169-b6f8-e419843bc3d1</sku>
-    <description>Γούρι βραχιόλι επιχρυσωμένο με επιχρυσωμένα στοιχεία 23 και βέλος.Διαστάσεις 18-22cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_c251703eaa9f4d6f9a8cbb82c8dd17b9~mv2.png</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_258e55f1722b4096b51f81d3c8124742~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_6bd4c39bc23b433c80d1946e7251dc27~mv2.png</additionalImage>
-    <category>Γούρι</category>
-    <weight>5gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/γούρι-βραχιόλι-ατσάλι-επιχρυσωμένο-gb-08</link>
-    <price>14.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -3138,6 +3331,32 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/γούρι-επιχρυσωμένο-βραχιόλι-αστέρια-gb-05</link>
     <price>13</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>42658934-64b0-b5a6-1120-be39cdb40ec8</uniqueid>
+    <name>Γούρι κολιέ ατσάλι 2023 GH.23</name>
+    <sku>bd9a76cb-9b4f-4a59-eedf-41c6324bf137</sku>
+    <description>Γούρι κολιέ ατσάλι 2023 σε ασημί απόχρωση .Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_e2aa5598566f428b829acd204137cf10~mv2.png</image>
+    <category>Γούρι</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-κολιέ-ατσάλι-2023-gh-23</link>
+    <price>15</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>f2a2e8ad-fce6-4f82-9754-22df1a6c95fb</uniqueid>
+    <name>Γούρι κολιέ ατσάλι 2023 GH.25</name>
+    <sku>0d5d1752-0319-b07d-68ab-dd20e5936a04</sku>
+    <description>Γούρι κολιέ ατσάλι 2023 σε ροζ χρυσή απόχρωση.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_ed1a4b7df2f14dd19aff732cf6a07568~mv2.png</image>
+    <category>Γούρι</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/γούρι-κολιέ-ατσάλι-2023-gh-25</link>
+    <price>15</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -3273,6 +3492,20 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κεραμικό-γούρι-ρόδι</link>
     <price>15.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>5975ea1c-080f-8adb-52db-a014631d7302</uniqueid>
+    <name>Κολιέ  από ατσάλι με μαργαριτάρια Ν.92</name>
+    <sku>a68a15e3-f7f0-7524-ad24-5feb9ce28cfd</sku>
+    <description>Κολιέ με μαργαριτάρια και ατσάλινο κούμπωμα το οποίο βρίσκεται στο εμπρός μέρος  και μήκος 46cm </description>
+    <image>https://static.wixstatic.com/media/2cbaff_6d8d2cf6a72548ecb1bf1d082baea889~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_b18254a80fbb4f8b869d736f3f88c070~mv2.jpg</additionalImage>
+    <category>Κολιέ</category>
+    <weight>32gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-με-μαργαριτάρια-7</link>
+    <price>24.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -3800,11 +4033,24 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>6c61b896-a962-1ecb-ca05-ad356db55e1d</uniqueid>
+    <name>Κολιέ ασήμι 925 NS.202</name>
+    <sku>939e4769-569d-e134-35fa-52ca924aa1e2</sku>
+    <description>Κολιέ από ασήμι 925 με κεντρικό περαστό στρογγυλό στοιχείο με καρφωτά ζιργκόν.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_7303994cc110468da3f64ab767959da0~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-ασήμι-925-ns-202</link>
+    <price>22.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>877a3ef9-ed80-ad9c-7290-dd940124a564</uniqueid>
     <name>Κολιέ ασήμι 925 δέντρο NS.200</name>
     <sku>7885c106-127f-5263-8d6f-226bfedb5a9b</sku>
     <description>Κολιέ από ασήμι 925 με κεντρικό στοιχείο δέντρο με διάφανα ζιργκόν και μπλε κρύσταλλα.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_bdda8c0e75e249e18978b0204ed4ea8b~mv2.jpg</image>
+    <image>https://static.wixstatic.com/media/2cbaff_4a9d77c21d1045df878dfa0790a38791~mv2.png</image>
     <category>Κολιέ</category>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
@@ -3817,7 +4063,7 @@
     <name>Κολιέ ασήμι 925 καρδιά NS.201</name>
     <sku>aab6d6ce-2491-b782-2b86-c02ba2e44c24</sku>
     <description>Κόλια από ασήμι 925 με κεντρικό καρδιά με ζιργκόν και κορώνα.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_8595a761d421494f88727488c61c2db3~mv2.jpg</image>
+    <image>https://static.wixstatic.com/media/2cbaff_7d88156dee704ecaa6a4f9f4e344d43f~mv2.png</image>
     <category>Κολιέ</category>
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
@@ -3826,11 +4072,24 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>fb6d01f7-4746-eb5c-9a94-106c69a7286a</uniqueid>
+    <name>Κολιέ ασήμι 925 μάτι NS.203</name>
+    <sku>0492fe08-b8b9-14a3-656b-ef939658d795</sku>
+    <description>Κολιέ από ασήμι 925 μάτι στόχο καρφωτά χρωματιστά ζιργκόν σε ροζ χρυσή απόχρωση.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_e8aaff54f3844cd18de50c48933dd205~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-ασήμι-925-μάτι-ns-203</link>
+    <price>16.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>302afbf9-fda5-1c02-dc07-e0b1f7a8c871</uniqueid>
     <name>Κολιέ ασημί 925 οβάλ NS.202</name>
     <sku>cfd50406-025a-e3fd-23f8-1f4e0857378e</sku>
     <description>Κολιέ απο ασήμι 925 οβάλ με καρφωτά ζιργκόν.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_2c7e87387a3f4bfab94fc0527484a83c~mv2.jpg</image>
+    <image>https://static.wixstatic.com/media/2cbaff_538a6597cc17454aa31562360a791f6f~mv2.png</image>
     <category>Κολιέ</category>
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
@@ -3875,20 +4134,6 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-με-κρίκους-χρυσό</link>
     <price>16.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>5975ea1c-080f-8adb-52db-a014631d7302</uniqueid>
-    <name>Κολιέ με μαργαριτάρια Ν.92</name>
-    <sku>a68a15e3-f7f0-7524-ad24-5feb9ce28cfd</sku>
-    <description>Κολιέ με μαργαριτάρια και ατσάλινο κούμπωμα το οποίο βρίσκεται στο εμπρός μέρος  και μήκος 46cm </description>
-    <image>https://static.wixstatic.com/media/2cbaff_6d8d2cf6a72548ecb1bf1d082baea889~mv2.png</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_b18254a80fbb4f8b869d736f3f88c070~mv2.jpg</additionalImage>
-    <category>Κολιέ</category>
-    <weight>32gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/κολιέ-με-μαργαριτάρια-7</link>
-    <price>24.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -4308,19 +4553,6 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-ανάγλυφα</link>
     <price>12.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>98334c7f-fdc6-f14f-d33a-40cc0e91291a</uniqueid>
-    <name>Σκουλαρίκια από ασήμι 925 "chanel" με καρφωτά ζιργκον ESL5 </name>
-    <sku>67ccb380-0239-0eb0-2cc5-bf33f16ed6e5</sku>
-    <description>Σκουλαρίκια από ασήμι 925 "chanel" σε ασημένια απόχρωση με καρφωτά ζιργκον με κρικακι και chanel</description>
-    <image>https://static.wixstatic.com/media/2cbaff_0631f815f22c45b493b1f47debc085f2~mv2.png</image>
-    <category>Σκουλαρίκια</category>
-    <weight>13gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ασήμι-925-channel-με-καρφωτά-ζιργκον-esl5</link>
-    <price>21.8</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -4897,6 +5129,19 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-γούρι-g-37</link>
     <price>13.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>99a0f622-ed3c-9799-36ab-ee858f4e4eab</uniqueid>
+    <name>Χειροποίητο γούρι αγγελάκι G.38</name>
+    <sku>665f09dd-12c3-6866-c954-117a70b1b154</sku>
+    <description>Χειροποίητο γούρι αγγελάκι φτιαγμένο από πηλό και σύρμα. Διαστάσεις 12×5 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_f114342b047e4bc98eddcce9e66d1a9e~mv2.jpg</image>
+    <category>Βάρος</category>
+    <weight>60 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/χειροποίητο-γούρι-αγγελάκι-g-38</link>
+    <price>17.8</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
