@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-01-10 18:33</created_at>
+  <created_at>2023-01-12 18:21</created_at>
   <product>
     <uniqueid>e33e77f2-f469-c78f-5164-e7aca44cbb8e</uniqueid>
     <name>Glam επιχρυσωμένα σκουλαρικια Ε.317</name>
@@ -1953,19 +1953,6 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>e860e890-f429-2cb5-0ef2-d531651e44dd</uniqueid>
-    <name>Ατσάλινο κολιέ καρδιά NST.550</name>
-    <sku>179f176f-0bd6-d34a-f10d-2ace9ae1bb22</sku>
-    <description>Ατσάλινο κολιέ καρδιά με διάφανο κρύσταλλο.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_a8f0414104f44238a29c69509a538b0f~mv2.jpg</image>
-    <category>Κολιέ</category>
-    <weight>4gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-καρδιά-nst-550</link>
-    <price>15.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <uniqueid>961a6991-5ef9-726a-27f5-32d03172e84e</uniqueid>
     <name>Ατσάλινο κολιέ κύκλος με καρδιές ΝST.24</name>
     <sku>69e5966e-a106-8d95-d80a-cd2fce8d17b1</sku>
@@ -2594,21 +2581,6 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/βραχιόλι-από-ασήμι-925-mama-2</link>
     <price>15.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>904080c5-8cb9-9e53-e311-42a6a18130e6</uniqueid>
-    <name>Βραχιόλι από ασήμι 925 αλυσίδα με ζιργκόν Β.47</name>
-    <sku>6fbf7f3a-7346-61ac-1cee-bd595e7ecf19</sku>
-    <description>Βραχιόλι από ασήμι 925 αλυσίδα με ζιργκόν  καρφωτά μήκος 18 έως 22cm</description>
-    <image>https://static.wixstatic.com/media/2cbaff_3a1caa30b4ee4ac2b4df6f4a891333c6~mv2.png</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_fe1aefb3d19c4cf3ae040c68ceb44d69~mv2.jpg</additionalImage>
-    <category>Βραχιόλι</category>
-    <size>18 cm - 22 cm</size>
-    <weight>12gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/βραχιόλι-από-ασήμι-925-αλυσίδα-με-ζιργκόν</link>
-    <price>69</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
