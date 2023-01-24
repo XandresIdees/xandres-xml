@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-01-17 13:27</created_at>
+  <created_at>2023-01-24 15:38</created_at>
   <product>
     <uniqueid>e33e77f2-f469-c78f-5164-e7aca44cbb8e</uniqueid>
     <name>Glam επιχρυσωμένα σκουλαρικια Ε.317</name>
@@ -2105,19 +2105,6 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>7a820659-911c-3068-c495-2bc3397d4fb1</uniqueid>
-    <name>Ατσάλινο κολιέ με μάτι κάτι ζιργκον ΝST.12</name>
-    <sku>857df9a6-6ee3-cf97-3b6a-d43cc682b04e</sku>
-    <description>Ατσάλινο κολιέ με μάτι ζιργκον και κρεμαστό δάκρυ με μήκος αλυσίδας 45 με cm</description>
-    <image>https://static.wixstatic.com/media/2cbaff_4e3a62661adf4d1d90e04cd88f05a8d1~mv2.jpg</image>
-    <category>Κολιέ</category>
-    <weight>6gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-με-μάτι-κάτι-ζιργκον</link>
-    <price>14.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <uniqueid>f5f00dba-6a54-0df4-b3c1-f818b3e05248</uniqueid>
     <name>Ατσάλινο κολιέ με μάτι και μπλε κρύσταλλο ΝST.11</name>
     <sku>0a0ff245-95ab-f20b-4c3e-07e74c1fadb7</sku>
@@ -3107,6 +3094,19 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>02e6c019-b615-0253-608c-3caad02ffef2</uniqueid>
+    <name>Κολιέ από ασήμι 925 αστέρι NS.214</name>
+    <sku>fd193fe6-49ea-fdac-9f73-c3552fd0010d</sku>
+    <description>Κολιέ από ασήμι 925 αστέρι με διάφανα ζιργκόν και πέρλα.Διάσταση 40cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_8813f11b5a134dcd87b0cd7a0bf1aca3~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-αστέρι-ns-214</link>
+    <price>19</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>14187471-44c1-85fe-087e-0e06bbb92922</uniqueid>
     <name>Κολιέ από ασήμι 925 δάκρυ με κρύσταλλο NS.33</name>
     <sku>ebe78b8e-bb3e-7a01-f781-f1f94446d6dd</sku>
@@ -3236,6 +3236,58 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>1f9ea4a4-3f7a-8388-9b01-89577299aa15</uniqueid>
+    <name>Κολιέ από ασήμι 925 νεράιδα NS.211</name>
+    <sku>e0615b5b-c085-7c77-64fe-76a88d6655ea</sku>
+    <description>Κολιέ από ασήμι 925 νεράιδα σε φεγγάρι με καρφωτά διάφανα ζιργκόν Διάσταση 40cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_a787c46bd3f443bcb045cb1bd27c3768~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-νεράιδα-ns-211</link>
+    <price>17.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>55fdab19-d32a-92c5-969a-e91e643f590d</uniqueid>
+    <name>Κολιέ από ασήμι 925 ονειροπαγίδα NS.212</name>
+    <sku>aa0254e6-2cd5-6d3a-6965-16e19bc0a6f2</sku>
+    <description>Κολιέ από ασήμι 925 ονειροπαγίδα με κρεμαστά φτερά Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_e9d08a9b4c5849b7b01ed69edd510441~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-ονειροπαγίδα-ns-212</link>
+    <price>18.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>69f4add8-de59-a846-f1c5-b55f57ad6331</uniqueid>
+    <name>Κολιέ από ασήμι 925 ουρανός NS.218</name>
+    <sku>960b5227-21a6-57b9-0e3a-4aa0a8529cce</sku>
+    <description>Κολιέ από ασήμι 925 ουρανός με αστέρια φεγγάρι και ζιργκόν.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_f6a4668cf31f47a8b78e8ae59a70384c~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-ουρανός-ns-218</link>
+    <price>25</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>c4e3c014-b9c0-fff9-87d8-94f6c2b3393d</uniqueid>
+    <name>Κολιέ από ασήμι 925 πέδιλο NS.215</name>
+    <sku>3b1c3feb-463f-0006-7827-6b093d4cc6c2</sku>
+    <description>Κολιέ από ασήμι 925 γυναικείο πέδιλο με καρφωτά ζιργκόν.Διάσταση 40cm. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_9b484544d638488b9c2c79a5010966c1~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-πέδιλο-ns-215</link>
+    <price>19.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>1fac69cd-c32d-5cb9-90d6-cf781bf561f8</uniqueid>
     <name>Κολιέ από ασήμι 925 ροζ επιχρυσωμένο Κωνσταντινάτο NS.39</name>
     <sku>e0539632-3cd2-a346-6f29-3087e40a9e07</sku>
@@ -3281,6 +3333,32 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>e731ceef-1587-e325-0630-5311b76f57bf</uniqueid>
+    <name>Κολιέ από ασήμι 925 φτερά NS.216</name>
+    <sku>18ce3110-ea78-1cda-f9cf-acee4890a840</sku>
+    <description>Κολιέ από ασήμι 925 φτερά αγγέλου με διάφανα καρφωτά ζιργκόν.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_cebe707254ab4857950cf325a3c49b54~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-φτερά-ns-216</link>
+    <price>20.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>2146fb66-a231-69f3-69c1-f3989851c7f3</uniqueid>
+    <name>Κολιέ από ασήμι 925 φτερό NS.217</name>
+    <sku>deb90499-5dce-960c-963e-0c6767ae380c</sku>
+    <description>Κολιέ από ασήμι 925 φτερό περαστό με καρφωτά διάφανα ζιργκόν.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_fc2d9d983d714ac7a7c460f446d01a1d~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-φτερό-ns-217</link>
+    <price>23.4</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>efc33946-d714-2c81-3d2c-7460ccd7679c</uniqueid>
     <name>Κολιέ από ασήμι 925 φτερό αγγέλου με καρφωτά ζιργκον NS.30</name>
     <sku>103cc6b9-28eb-d37e-c2d3-8b9f33289863</sku>
@@ -3292,6 +3370,19 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-φτερό-αγγέλου-με-καρφωτά-ζιργκον-ns-30</link>
     <price>17.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>af2e65f1-c980-5301-ca9d-e9d8af9fa00f</uniqueid>
+    <name>Κολιέ από ασήμι 925 χελώνα NS.213</name>
+    <sku>50d19a0e-367f-acfe-3562-162750605ff0</sku>
+    <description>Κολιέ από ασήμι 925 με κεντρικό μοτίφ  χελώνα με καρφωτά διάφανα ζιργκόν Διάσταση 40cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_3c292f26a13443639b989ec9d527655b~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ασήμι-925-χελώνα-ns-213</link>
+    <price>19.6</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
