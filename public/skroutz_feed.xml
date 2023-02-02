@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-01-30 12:42</created_at>
+  <created_at>2023-02-02 18:45</created_at>
   <product>
     <uniqueid>e33e77f2-f469-c78f-5164-e7aca44cbb8e</uniqueid>
     <name>Glam επιχρυσωμένα σκουλαρικια Ε.317</name>
@@ -3881,6 +3881,84 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κρεμαστό-ξύλινο-γούρι-σπίτι</link>
     <price>14.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>957fc962-5ef2-9672-d832-53ac054a49b6</uniqueid>
+    <name>Μάρτης ατσάλι δέντρο της ζωής Mar.05</name>
+    <sku>6a80369d-a10d-698d-27cd-ac53fab5b649</sku>
+    <description>Μάρτης ατσάλινο επιχρυσωμένο  δέντρο της ζωής με λευκές πέρλες,γαλάζιες τετράγωνες χάντρες και τελείωμα με μακραμέ.Διαστάσεις 10-24cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_1baf6f69d7324f86979ab171fa92dfa6~mv2.png</image>
+    <category>Βραχιόλι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/μάρτης-ατσάλι-δέντρο-της-ζωής-mar-05</link>
+    <price>7.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>0d852463-e32e-1ac3-5a24-67ab9aebf318</uniqueid>
+    <name>Μάρτης ατσάλι λουλούδι Mar.02</name>
+    <sku>f27adb9c-1cd1-e53c-a5db-985465140ce7</sku>
+    <description>Μάρτης με ατσάλινο επιχρυσωμένο λουλούδι και κρύσταλλα λευκά και κόκκινα με μακραμε τελείωμα.Διαστάσεις 10-24cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_ec09fec8458e473da319b6f3e99e6907~mv2.png</image>
+    <category>Βραχιόλι</category>
+    <weight>5gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/μάρτης-ατσάλι-λουλούδι-mar-02</link>
+    <price>7.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>6281fdba-ea55-92bf-2d6f-8ff37c2363a4</uniqueid>
+    <name>Μάρτης ατσάλι μάτι Mar.06</name>
+    <sku>9d7e0245-15aa-6d40-d290-700c83dc9c5b</sku>
+    <description>Μάρτης ατσάλινο επιχρυσωμένο μάτι,κόκκινο κρύσταλλο,επιχρυσωμένος ατσάλινες χάντρες και τελείωμα με μακραμέ.Διαστάσεις 10-23cm</description>
+    <image>https://static.wixstatic.com/media/2cbaff_adb6fbb178f44836aaf2570624cd7849~mv2.png</image>
+    <category>Βραχιόλι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/μάρτης-ατσάλι-μάτι-mar-06</link>
+    <price>7.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>0068a4af-cbbd-b389-3210-6bd48e0e8d2b</uniqueid>
+    <name>Μάρτης ατσάλι με φτερό Mar.01</name>
+    <sku>ff975b50-3442-4c76-cdef-942b71f172d4</sku>
+    <description>Μάρτης με επιχρυσωμένο ατσάλινο φτερό και γαλάζιο ματάκι με μακραμέ τελείωμα.Διαστάσεις 10-24cm. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_bf60c10d703f4d22b907abff6dec56e5~mv2.png</image>
+    <category>Βραχιόλι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/μάρτης-ατσάλι-με-φτερό-mar-01</link>
+    <price>7.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>2d133bd3-b40e-a97c-8b04-ff07ef857158</uniqueid>
+    <name>Μάρτης ατσάλι πλακέτα Mar.04</name>
+    <sku>d2ecc42c-4bf1-5683-74fb-00f8107a8ea7</sku>
+    <description>Μάρτης ατσάλινη επιχρυσωμένη πλακέτα,κρεμαστό κόκκινο κρύσταλλο άσπρο-γαλάζιο μάτι και τελείωμα με μακραμέ.Διαστάσεις 10-22cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_5b0225d5eae94d7f90d57f72cc21986e~mv2.png</image>
+    <category>Βραχιόλι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/μάρτης-ατσάλι-πλακέτα-mar-04</link>
+    <price>7.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>bf9bd145-1f4a-6174-4b2e-8bc90dc65119</uniqueid>
+    <name>Μάρτης ατσάλι χελιδόνι Mar.03</name>
+    <sku>40642eba-e0b5-9e8b-b4d1-7436f239aee6</sku>
+    <description>Μάρτης ατσάλινο επιχρυσωμένο χελιδόνι,κόκκινο κρύσταλλο,άσπρο-γαλάζιο μάτι και τελείωμα με μακραμέ.Διαστάσεις 10-23cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_a6bf930d329f4b5080939c44312067da~mv2.png</image>
+    <category>Βραχιόλι</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/μάρτης-ατσάλι-χελιδόνι-mar-03</link>
+    <price>7.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
