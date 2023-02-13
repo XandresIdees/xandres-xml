@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-02-10 10:31</created_at>
+  <created_at>2023-02-13 12:36</created_at>
   <product>
     <uniqueid>e33e77f2-f469-c78f-5164-e7aca44cbb8e</uniqueid>
     <name>Glam επιχρυσωμένα σκουλαρικια Ε.317</name>
@@ -3064,6 +3064,19 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>b75e1d4b-e25f-5855-940e-5cca0cd6497c</uniqueid>
+    <name>Κολιέ  επιχρυσωμένο ατσάλι καρδιά NST.601</name>
+    <sku>48a1e2b4-1da0-a7aa-6bf1-a335f329b683</sku>
+    <description>Κολιέ από επιχρυσωμένο ατσάλι με  καρδιά με καρφωτά διάφανα ζιργκόν.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_047b9bdf734a4f878c7bc7860d9051bf~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>7gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-επιχρυσωμένο-ατσάλι-καρδιά-nst-601</link>
+    <price>17.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>bf50ba5e-c028-951e-eb3f-5a89b97f42ce</uniqueid>
     <name>Κολιέ ''μάτι''Ν.295</name>
     <sku>40af45a1-3fd7-6ae1-14c0-a5764680bd31</sku>
@@ -3181,19 +3194,6 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>3014605e-9640-1beb-a713-19220fe33ac2</uniqueid>
-    <name>Κολιέ απο επιχρυσωμένο ατσάλι καρδιά NST.576</name>
-    <sku>cfeb9fa1-69bf-e414-58ec-e6ddf01cc53d</sku>
-    <description>Κολιέ απο επιχρυσωμένο ατσάλι καρδιά μαε διάφανο κρύσταλλο σε σχήμα καρδιάς.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_94d7327c39124c9888e1d4f9563c2d34~mv2.png</image>
-    <category>Κολιέ</category>
-    <weight>5gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/κολιέ-απο-επιχρυσωμένο-ατσάλι-καρδιά-nst-576</link>
-    <price>16.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <uniqueid>1a49fe0b-f70d-c2fa-820d-899834b4963f</uniqueid>
     <name>Κολιέ απο επιχρυσωμένο ατσάλι καρδιά NTS.561</name>
     <sku>e5b601f4-08f2-3d05-7df2-7667cb4b69c0</sku>
@@ -3217,19 +3217,6 @@
     <weight>5gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-απο-επιχρυσωμένο-ατσάλι-καρδιά-nts-562</link>
-    <price>17.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>a0ef5371-f112-4390-0654-57d5c055fa49</uniqueid>
-    <name>Κολιέ απο επιχρυσωμένο ατσάλι καρδιά NTS.564</name>
-    <sku>5f10ac8e-0eed-bc6f-f9ab-a82a3faa05b6</sku>
-    <description>Κολιέ απο επιχρυσωμένο ατσάλι καρδιά με καρφωτά διάφανα ζιργκόν.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_9a696aa9230b404ba275120e13954a32~mv2.png</image>
-    <category>Κολιέ</category>
-    <weight>5gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/κολιέ-απο-επιχρυσωμένο-ατσάλι-καρδιά-nts-564</link>
     <price>17.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
@@ -3937,6 +3924,32 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>9a6d4ef7-fa02-6521-f912-58a9b064922c</uniqueid>
+    <name>Κολιέ ατσάλι καρδιά NST.599</name>
+    <sku>6592b108-05fd-9ade-06ed-a7564f9b6dd3</sku>
+    <description>Κολιέ απο ατσάλι με καρδιά καρφωτά ζιργκόν και διάφανο κρύσταλλο στο κέντρο σε σχήμα καρδιάς.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_ce4d31fccf74428aa2752ec1a30cd021~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>6gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-ατσάλι-καρδιά-nst-599</link>
+    <price>17.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>355c1082-6d7b-1f70-fbe6-f2b1098b85cf</uniqueid>
+    <name>Κολιέ ατσάλι καρδιά NST.600</name>
+    <sku>caa3ef7d-9284-e08f-0419-0d4ef6747a30</sku>
+    <description>Κολιέ από ατσάλι και καρδιά με διάφανα κρύσταλλα.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_2d7b863f89b04684a225f99c34032b65~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>6gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-ατσάλι-καρδιά-nst-600</link>
+    <price>18.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>ead42eba-e28d-a69a-5f9d-50506fec0f82</uniqueid>
     <name>Κολιέ ατσάλι καρδιές NST.581</name>
     <sku>152bd145-1d72-5965-a062-afaf9013f07d</sku>
@@ -3973,6 +3986,19 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-ατσάλι-νεκροκεφαλή</link>
     <price>10</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>d07e67b8-5b47-d66b-8c71-18d3747fa391</uniqueid>
+    <name>Κολιέ ατσάλι ροζ χρυσό καρδιά NST.598</name>
+    <sku>2f819847-a4b8-2994-738e-e72c8b805c6e</sku>
+    <description>Κολιέ από ατσάλι ροζ χρυσό με καρδιά απο μάργαρο.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_133eda63957a41da97abc510872a4788~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>11gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-ατσάλι-ροζ-χρυσό-καρδιά</link>
+    <price>13.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -4015,6 +4041,19 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>b79e9af2-c268-7d5c-b9b4-22c95d206fba</uniqueid>
+    <name>Κολιέ επιχρυσωμένο ατσάλι NST.596</name>
+    <sku>4861650d-3d97-82a3-464b-dd36a2df9045</sku>
+    <description>Κολιέ επιχρυσωμένο ατσάλι “love”.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_2225a07f1ed242dfbb13af8781d19bbe~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-επιχρυσωμένο-ατσάλι-nst-596</link>
+    <price>13.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>cfb84dd4-dcb4-3fb3-b4a6-a6fc6b99a8ef</uniqueid>
     <name>Κολιέ επιχρυσωμένο ατσάλι άπειρο NST.586</name>
     <sku>3047b22b-234b-c04c-4b59-590394665710</sku>
@@ -4025,6 +4064,19 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-επιχρυσωμένο-ατσάλι-άπειρο-nst-586</link>
     <price>14.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>8913877d-7b74-c769-5825-a857e16c3a45</uniqueid>
+    <name>Κολιέ επιχρυσωμένο ατσάλι διπλό καρδιά NST.594</name>
+    <sku>76ec7882-848b-3896-a7da-57a81e93c5ba</sku>
+    <description>Κολιέ απο επιχρυσωμένο ατσάλι με δύο διαφορετικές αλυσίδες,μια διπλή ατσάλινη και μια ατσάλινη με καρδιές και μισοφέγγαρα.Τελικό στοιχείο μάργαρο σε σχήμα καρδιάς.Διαστάσεις 40-45.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_3e003c53980840d385d994c8892977db~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>9gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-επιχρυσωμένο-ατσάλι-διπλό-καρδιά-nst-594</link>
+    <price>15.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -4054,6 +4106,45 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>64fbe0d4-fd5a-7832-081f-5536798ac869</uniqueid>
+    <name>Κολιέ επιχρυσωμένο ατσάλι καρδιά NST.597</name>
+    <sku>9b041f2b-02a5-87cd-f7e0-aac986753796</sku>
+    <description>Κολιέ από επιχρυσωμένο ατσάλι με κόκκινο κρύσταλλο σε σχήμα καρδιάς.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_4b2c2e40491949f582b1e6a8b823350d~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-επιχρυσωμένο-ατσάλι-καρδιά-nst-597</link>
+    <price>14.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>0bc324e2-bc8d-405a-b3ab-9fd5a9c3a0f5</uniqueid>
+    <name>Κολιέ επιχρυσωμένο ατσάλι καρδιά NST.603</name>
+    <sku>f43cdb1d-4372-bfa5-4c54-602a563c5f0a</sku>
+    <description>Κολιέ από επιχρυσωμένο ατσάλι καρδιά και πέρλα.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_917b4c0fb64a48ddacb20fc5cb641ed5~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-επιχρυσωμένο-ατσάλι-καρδιά-nst-603</link>
+    <price>13.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>5fdec728-6448-2f6d-98ee-4fc2096e9fcb</uniqueid>
+    <name>Κολιέ επιχρυσωμένο ατσάλι καρδιές NST.595</name>
+    <sku>a02138d7-9bb7-d092-6711-b03df6916034</sku>
+    <description>Κολιέ από επιχρυσωμένο ατσάλι με πέντε καρδιές και αλυσίδα ατσάλινη φίδι.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_6168db58fad3445cb95a8b1993098bb9~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-επιχρυσωμένο-ατσάλι-καρδιές-nst-595</link>
+    <price>12.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>a17dab50-996f-f7db-31fc-796fbe31c5f4</uniqueid>
     <name>Κολιέ επιχρυσωμένο ατσάλι φτερά NST.577</name>
     <sku>5e8254af-6690-0824-ce03-869041ce3a0b</sku>
@@ -4064,6 +4155,19 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-επιχρυσωμένο-ατσάλι-φτερά-nst-577</link>
     <price>15.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>f6aa5ae1-2736-c912-cc83-393932dec49d</uniqueid>
+    <name>Κολιέ επιχρυσωμένο ατσάλι φτερά NST.602</name>
+    <sku>0955a51e-d8c9-36ed-337c-c6c6cd213b62</sku>
+    <description>Κολιέ από επιχρυσωμένο ατσάλι με φτερά με διάφανα ζιργκόν και κρεμαστό κρύσταλλο σε σχήμα δάκρυ.Διαστάσεις 40-45cm.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_6ed4a39524394b379f8bcf4a94dfae39~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>4gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-επιχρυσωμένο-ατσάλι-φτερά-nst-602</link>
+    <price>17.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
