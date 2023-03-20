@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-03-14 18:03</created_at>
+  <created_at>2023-03-20 09:39</created_at>
   <product>
     <uniqueid>e33e77f2-f469-c78f-5164-e7aca44cbb8e</uniqueid>
     <name>Glam επιχρυσωμένα σκουλαρικια Ε.317</name>
@@ -2060,6 +2060,21 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>bc77de62-6c3b-616c-47f9-570eb5000197</uniqueid>
+    <name>Ατσάλινο κολιέ NTS.626</name>
+    <sku>4388219d-93c4-9e93-b806-a8f14afffe68</sku>
+    <description>Ατσάλινο κολιέ με κρεμαστα στοιχεία από ατσάλι,μαργαρο και κρύσταλλο μήκος 42εκ</description>
+    <image>https://static.wixstatic.com/media/2cbaff_ec01141399424566b1cee913745146ae~mv2.jpg</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_41197be3aade4d77be2e063d3389562c~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_8e3b2cd4ba8e45e2884f7c8d8f2dadbd~mv2.jpg</additionalImage>
+    <category>Κολιέ</category>
+    <weight>7γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-nts-626</link>
+    <price>16.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>5eb61ad1-3bc7-a083-af76-1f1d9b45e8be</uniqueid>
     <name>Ατσάλινο κολιέ peaceful NST.548</name>
     <sku>a149e52e-c438-5f7c-5089-e0e264ba1741</sku>
@@ -2716,23 +2731,63 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>f81f75bb-141d-5c4f-5d24-2db5c2d8980c</uniqueid>
-    <name>Βραχιόλι από ορείχαλκο σε ροζ χρυσή απόχρωση Β.26</name>
-    <sku>07e08a44-ebe2-a3b0-a2db-d24a3d2767f3</sku>
-    <description>Βραχιόλι από ορείχαλκο σε ροζ χρυσή απόχρωση με κρύσταλλο λευκό, ανοιγομενο στο κάτω μέρος. </description>
-    <image>https://static.wixstatic.com/media/2cbaff_d01ab8ab07694e29899a2a842826e619~mv2.jpg</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_ad540df368be4a2bb355894bc25d279f~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_403e2351a4234ea5b8551bab6746e60e~mv2.jpg</additionalImage>
+    <uniqueid>75c61587-65fa-2547-c930-2b9e772f88be</uniqueid>
+    <name>Βραχιόλι από ορείχαλκο OR.02</name>
+    <sku>8a39ea78-9a05-dab8-36cf-d46188d07741</sku>
+    <description>Βραχιόλι από ορείχαλκο σε χρυσή απόχρωση με πράσινο κρύσταλλο  ανοιγομενο στο κάτω μέρος του. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_30c114f238b44d2b9057b54439de6e0d~mv2.jpg</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_f8775bbee421411db4b7828ba53bcf0e~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_eeaf1d46b3304606ad311d9732901983~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
-    <weight>12gr</weight>
+    <weight>13gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/βραχιόλι-από-ορείχαλκο-σε-ροζ-χρυσή-απόχρωση-1</link>
-    <price>36.5</price>
+    <link>https://www.xantres-idees.com/product-page/βραχιόλι-από-ορείχαλκο-σε-χρυσή-απόχρωση-2</link>
+    <price>31</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>cab4aac9-55d5-abf1-2043-069243b5b79e</uniqueid>
+    <name>Βραχιόλι από ορείχαλκο OR.46</name>
+    <sku>354b5536-aa2a-540e-dfbc-f96dbc4a4861</sku>
+    <description>Βραχιόλι από ορείχαλκο σε ασημί απόχρωση μήκος 17-20εκ.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_9bd848a1a5154c1297fbc3b289592efd~mv2.jpeg</image>
+    <category>Βραχιόλια</category>
+    <weight>7γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/βραχιόλι-από-ορείχαλκο-or-46</link>
+    <price>24.6</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>442703e9-a3be-dcd7-0cbc-f43df7bc99e8</uniqueid>
+    <name>Βραχιόλι από ορείχαλκο OR.48</name>
+    <sku>bbd8fc16-5c41-2328-f343-0bc208436617</sku>
+    <description>Βραχιόλι από ορείχαλκο σε ασημί απόχρωση και μαργαριτάρια μήκος 17-20εκ.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_97c29823d7a84e15b2f945a56a3fbe3d~mv2.jpg</image>
+    <category>Βραχιόλια</category>
+    <weight>8γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/βραχιόλι-από-ορείχαλκο-or-48</link>
+    <price>37.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>38073992-bc9b-455d-9b68-297ac950fbb8</uniqueid>
+    <name>Βραχιόλι από ορείχαλκο. OR.09</name>
+    <sku>c7f8c66d-4364-baa2-6497-d68536af0447</sku>
+    <description>Βραχιόλι με ασημί και μαύρους κρίκους μέγεθος του καθενός 2.50 cm  και συνολικό μήκος 19 έως 22cm</description>
+    <image>https://static.wixstatic.com/media/2cbaff_348e4bb053d34975aaf9624e8238c83b~mv2.jpg</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_d35e126efe5a4fedb039b57b4e818994~mv2.jpg</additionalImage>
+    <category>Βραχιόλι</category>
+    <weight>16gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/βραχιόλι-με-ασημί-και-χρυσούς-κρίκους</link>
+    <price>15.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
     <uniqueid>82d8567e-f9c2-fa33-edb4-df4ea11db66e</uniqueid>
-    <name>Βραχιόλι από ορείχαλκο σε ροζ χρυσή απόχρωση Β.28</name>
+    <name>Βραχιόλι από ορείχαλκο.OR. 04</name>
     <sku>7d27a981-063d-05cc-124b-20b15ee24991</sku>
     <description>Βραχιόλι από ορείχαλκο σε ροζ χρυσή απόχρωση ανοιγομενο στο κάτω μέρος </description>
     <image>https://static.wixstatic.com/media/2cbaff_08702f50f44943a5a577d7af26b0560a~mv2.jpg</image>
@@ -2746,18 +2801,18 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>75c61587-65fa-2547-c930-2b9e772f88be</uniqueid>
-    <name>Βραχιόλι από ορείχαλκο σε χρυσή απόχρωση Β.25</name>
-    <sku>8a39ea78-9a05-dab8-36cf-d46188d07741</sku>
-    <description>Βραχιόλι από ορείχαλκο σε χρυσή απόχρωση με πράσινο κρύσταλλο  ανοιγομενο στο κάτω μέρος του. </description>
-    <image>https://static.wixstatic.com/media/2cbaff_30c114f238b44d2b9057b54439de6e0d~mv2.jpg</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_f8775bbee421411db4b7828ba53bcf0e~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_eeaf1d46b3304606ad311d9732901983~mv2.jpg</additionalImage>
+    <uniqueid>f81f75bb-141d-5c4f-5d24-2db5c2d8980c</uniqueid>
+    <name>Βραχιόλι από ορείχαλκο.OR.03</name>
+    <sku>07e08a44-ebe2-a3b0-a2db-d24a3d2767f3</sku>
+    <description>Βραχιόλι από ορείχαλκο σε ροζ χρυσή απόχρωση με κρύσταλλο λευκό, ανοιγομενο στο κάτω μέρος. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_d01ab8ab07694e29899a2a842826e619~mv2.jpg</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_ad540df368be4a2bb355894bc25d279f~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_403e2351a4234ea5b8551bab6746e60e~mv2.jpg</additionalImage>
     <category>Βραχιόλι</category>
-    <weight>13gr</weight>
+    <weight>12gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/βραχιόλι-από-ορείχαλκο-σε-χρυσή-απόχρωση-2</link>
-    <price>31</price>
+    <link>https://www.xantres-idees.com/product-page/βραχιόλι-από-ορείχαλκο-σε-ροζ-χρυσή-απόχρωση-1</link>
+    <price>36.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -2773,20 +2828,6 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/βραχιόλι-ατσάλι-χειροπέδα</link>
     <price>16.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>38073992-bc9b-455d-9b68-297ac950fbb8</uniqueid>
-    <name>Βραχιόλι με ασημί και χρυσούς κρίκους Β.02</name>
-    <sku>c7f8c66d-4364-baa2-6497-d68536af0447</sku>
-    <description>Βραχιόλι με ασημί και μαύρους κρίκους μέγεθος του καθενός 2.50 cm  και συνολικό μήκος 19 έως 22cm</description>
-    <image>https://static.wixstatic.com/media/2cbaff_348e4bb053d34975aaf9624e8238c83b~mv2.jpg</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_d35e126efe5a4fedb039b57b4e818994~mv2.jpg</additionalImage>
-    <category>Βραχιόλι</category>
-    <weight>16gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/βραχιόλι-με-ασημί-και-χρυσούς-κρίκους</link>
-    <price>15.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -2817,6 +2858,19 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/βραχιόλι-με-κρύσταλλα-χρυσό-1</link>
     <price>16.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>cdaf5716-d28a-cbd2-69b3-17d2cc6f94df</uniqueid>
+    <name>Βραχιόλιο από ορείχαλκο OR.47</name>
+    <sku>3250a8e9-2d75-342d-964c-e82d33906b20</sku>
+    <description>Βραχιόλι από ορείχαλκο σε ροζ χρυση απόχρωση μήκος 17-20εκ.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_14b1bb96f80844f39548c5151826dbb1~mv2.jpg</image>
+    <category>Βραχιόλια</category>
+    <weight>7 γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/βραχιόλιο-από-ορείχαλκο-or-47</link>
+    <price>29.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -3091,7 +3145,7 @@
   </product>
   <product>
     <uniqueid>e76e669f-ae72-b56a-9c3d-9dafb49e5c02</uniqueid>
-    <name>Δίχρωμοι κρίκοι σκουλαρίκια Ε.311</name>
+    <name>Δίχρωμοι κρίκοι σκουλαρίκια από ορείχαλκο. OR 23</name>
     <sku>18919960-518d-4a95-63c2-62504b61a3fd</sku>
     <description>Δίχρωμοι σφυρήλατοι κρίκοι πλεξούδα από ορείχαλκο χειροποίητοι διάμετρο 4.50 εκατοστά </description>
     <image>https://static.wixstatic.com/media/2cbaff_e0575243831848df9326bac41bc9e04a~mv2.jpg</image>
@@ -3104,7 +3158,7 @@
   </product>
   <product>
     <uniqueid>8c4e6061-1847-3b56-5f5e-b5ca844c7e9c</uniqueid>
-    <name>Επιστρωμένοι κρίκοι σκουλαρίκια Ε.313</name>
+    <name>Επιστρωμένοι κρίκοι σκουλαρίκια OR 25</name>
     <sku>73b19f9e-e7b8-c4a9-a0a1-4a357bb38163</sku>
     <description>Χειροποίητοι κρίκοι σκουλαρίκια από ορείχαλκο 6,5 cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_08cedd0a9790413bb873bd0c7b247c5a~mv2.jpg</image>
@@ -3143,7 +3197,7 @@
   </product>
   <product>
     <uniqueid>8b50f500-38ea-0853-b532-f79252238691</uniqueid>
-    <name>Κολιέ  από ορείχαλκο  Ν.102</name>
+    <name>Κολιέ  από ορείχαλκο  OR.07</name>
     <sku>74af0aff-c715-f7ac-4acd-086daddc796e</sku>
     <description> Κολιέ με μαύρους και χρυσούς κρίκους μέγεθος 2.50 εκατοστά ο καθενας και συνολικό μήκος 45cm </description>
     <image>https://static.wixstatic.com/media/2cbaff_1b3436fbc58d47a58d29b3de76139d4d~mv2.jpg</image>
@@ -3674,6 +3728,58 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>84223328-1076-afdf-4353-30568ad2669f</uniqueid>
+    <name>Κολιέ από ατσάλι NTS.621</name>
+    <sku>7bddccd7-ef89-5020-bcac-cfa9752d9960</sku>
+    <description>Κολιέ από ατσάλι με καρφωτα ζιργκον σε χρυσή απόχρωση μήκος 40-45εκ</description>
+    <image>https://static.wixstatic.com/media/2cbaff_0da5f40ae1f7405aa9c15623253a4fb1~mv2.jpg</image>
+    <category>Κολιέ</category>
+    <weight>7γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ατσάλι-nts-621</link>
+    <price>17.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>974d543c-bc22-b1b3-85d4-5400ebae7b90</uniqueid>
+    <name>Κολιέ από ατσάλι NTS.623</name>
+    <sku>68b2abc3-43dd-4e4c-7a2b-abff1451846f</sku>
+    <description>Κολιέ από ατσάλι με δεντρο της ζωής και καρφωτα ζιργκον σε χρυσή απόχρωση μήκος 45-50εκ.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_bd4d77766efb471aaa4c0ad920525ed0~mv2.jpg</image>
+    <category>Κολιέ</category>
+    <weight>7 γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ατσάλι-nts-623</link>
+    <price>14.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>8170887b-1383-e6e4-ef86-64ec8a0530b1</uniqueid>
+    <name>Κολιέ από ατσάλι NTS.624</name>
+    <sku>7e8f7784-ec7c-191b-1079-9b1375facf4e</sku>
+    <description>Κολιέ από ατσάλι με μάτι καρφωτα ζιργκον σε χρυσή απόχρωση μήκος 40-45εκ.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_3bc97a51904a42bcb3a0804e2f2a97e6~mv2.jpg</image>
+    <category>Κολιέ</category>
+    <weight>7γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ατσάλι-nts-624</link>
+    <price>14.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>cf82ab3c-fb02-5e58-f38f-f564bb144f84</uniqueid>
+    <name>Κολιέ από ατσάλι NTS.625</name>
+    <sku>307d54c3-04fd-a1a7-0c70-0a9b44ebb07b</sku>
+    <description>Κολιέ από ατσάλι Κωνσταντινάτο με καρφωτα ζιργκον σε χρυσή απόχρωση μήκος 40-45εκ</description>
+    <image>https://static.wixstatic.com/media/2cbaff_431054326e02495298097b3c3552578b~mv2.jpg</image>
+    <category>Κολιέ</category>
+    <weight>7γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ατσάλι-nts-625</link>
+    <price>14.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>13fe24be-fa7c-c7f4-3f6b-fb3eaae03725</uniqueid>
     <name>Κολιέ από ατσάλι επιχρυσωμένο καρδιά NST.573</name>
     <sku>ec01db41-0583-380b-c094-04c1551fc8da</sku>
@@ -3841,22 +3947,8 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>ebe919e6-9ef5-a5df-71cb-5d2e5d537e0f</uniqueid>
-    <name>Κολιέ από ορείχαλκο  Ν.108</name>
-    <sku>1416e619-610a-5a20-8e34-a2d1a2ac81f0</sku>
-    <description>Κολιέ από ορείχαλκο με αχάτη και κρύσταλλα χρυσό  δεμένα μεταξύ τους με σύρμα  μήκος 40 έως 45 cm</description>
-    <image>https://static.wixstatic.com/media/2cbaff_3b468051e52e4ff8895994d535ad177f~mv2.png</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_b3f5184700094575a1d24420a0fbfacc~mv2.jpg</additionalImage>
-    <category>Κολιέ</category>
-    <weight>10gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ορείχαλκο-με-αχάτη-και-κρύσταλλα-χρυσό-1</link>
-    <price>36.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <uniqueid>5793933c-60e2-b0de-718b-02f4d6a13b6b</uniqueid>
-    <name>Κολιέ από ορείχαλκο με ημιπολύτιμο λίθο και κρύσταλλο Ν.112</name>
+    <name>Κολιέ από ορείχαλκο .OR.15</name>
     <sku>a86c6cc3-9f1d-4f21-8e74-fd0b295ec494</sku>
     <description>Κολιέ από ορείχαλκο με ημιπολύτιμο λίθο και κρύσταλλο δεμένα μεταξύ τους με σύρμα, από την μία σχοινί και από την άλλη αλυσίδα επιχρυσωμένη με κρίκους, μήκος 40 έως 45cm </description>
     <image>https://static.wixstatic.com/media/2cbaff_8e5be9a70f95429cb06cb8bcf162540c~mv2.png</image>
@@ -3869,21 +3961,75 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>f21f23ba-6ec9-b724-3153-de53aed87d34</uniqueid>
-    <name>Κολιέ από ορείχαλκο με κρίκους ασημί Ν.110</name>
-    <sku>0de0dc45-9136-48db-ceac-21ac512782cb</sku>
-    <description>Κολιέ από ορείχαλκο με τρεις κρίκους ασημί μήκους 9 εκατοστών με σχοινί ρυθμιζόμενο </description>
-    <image>https://static.wixstatic.com/media/2cbaff_e332279e5a824a6b8616cd4e93688a8a~mv2.jpg</image>
+    <uniqueid>75336a5a-f013-e87e-739c-cda2be2310d2</uniqueid>
+    <name>Κολιέ από ορείχαλκο OR.43</name>
+    <sku>8acc95a5-0fec-1781-8c63-325d41dcef2d</sku>
+    <description>Κολιέ από ορείχαλκο χειροποίητο σε χρυσή απόχρωση μήκος 50-55εκ.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_4d3b6ff49918439d8de3c072d200d48e~mv2.jpg</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_8829482ef09744a2bef33b22f7a5f1d7~mv2.jpg</additionalImage>
     <category>Κολιέ</category>
-    <weight>7gr</weight>
+    <weight>8γρ</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ορείχαλκο-με-κρίκους-ασημί</link>
-    <price>22.9</price>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ορείχαλκο-or-43</link>
+    <price>48.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>66d5cc54-f69f-b903-f1f7-c4f77d257d71</uniqueid>
+    <name>Κολιέ από ορείχαλκο OR.44</name>
+    <sku>992a33ab-0960-46fc-0e08-3b0882da828e</sku>
+    <description>Κολιέ από ορείχαλκο σε ροζ χρυση απόχρωση μήκος 50-55εκ.</description>
+    <image>https://static.wixstatic.com/media/2cbaff_6a79091773f2487db013c2320260f59d~mv2.jpg</image>
+    <category>Κολιέ</category>
+    <weight>8 γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ορείχαλκο-or-44</link>
+    <price>57</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>43595da0-9df7-972b-d02b-efecab0fd0e4</uniqueid>
+    <name>Κολιέ από ορείχαλκο OR.45</name>
+    <sku>bca6a25f-6208-68d4-2fd4-101354f02f1b</sku>
+    <description>Κολιέ από ορείχαλκο με ημιπολύτιμη πέτρα λάβα σε ροζ χρυση απόχρωση μήκος 45-50εκ</description>
+    <image>https://static.wixstatic.com/media/2cbaff_1022e1c4a7494b6583d058a14a0581d2~mv2.jpg</image>
+    <category>Κολιέ</category>
+    <weight>8γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ορείχαλκο-or-45</link>
+    <price>29.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>990545c7-5316-931c-d9ff-aa8c88da4a16</uniqueid>
+    <name>Κολιέ από ορείχαλκο OR.49</name>
+    <sku>66faba38-ace9-6ce3-2600-55737725b5e9</sku>
+    <description>Κολιέ από ορείχαλκο με κρεμαστά μαργαριτάρια σε ροζ χρυση απόχρωση μήκος 40-45εκ</description>
+    <image>https://static.wixstatic.com/media/2cbaff_5073b13ffb8f411080b8f608d28fcaa1~mv2.jpeg</image>
+    <category>Κολιέ</category>
+    <weight>7γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ορείχαλκο-or-49</link>
+    <price>32.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>87c5bc42-873f-4521-b444-364cd7fc2045</uniqueid>
+    <name>Κολιέ από ορείχαλκο.OR 12</name>
+    <sku>783a43bd-78c0-bade-4bbb-c9b32803dfba</sku>
+    <description>Κολιέ από ορείχαλκο με αχάτη και κρύσταλλα χρυσό με πράσινο κρύσταλλο δεμένα μεταξύ τους με σύρμα  μήκος 40 έως 45cm </description>
+    <image>https://static.wixstatic.com/media/2cbaff_7634c79521774004b4b1ec2889097e33~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_188769bf52a94f08bcaa0a905d103eaa~mv2.jpg</additionalImage>
+    <category>Κολιέ</category>
+    <weight>10gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ορείχαλκο-με-αχάτη-και-κρύσταλλα-χρυσό</link>
+    <price>36.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
     <uniqueid>3e359a5a-e137-d238-7d88-1f49c8956d1a</uniqueid>
-    <name>Κολιέ από ορείχαλκο με πράσινο κρύσταλλο Ν.111</name>
+    <name>Κολιέ από ορείχαλκο.OR 14</name>
     <sku>c1ca65a5-1ec8-2dc7-8277-e0b6376a92e5</sku>
     <description>Κολιέ από ορείχαλκο με πράσινο κρύσταλλο μήκους μοτιφ 6 εκατοστά με σχοινί ρυθμιζόμενο </description>
     <image>https://static.wixstatic.com/media/2cbaff_f3c81cb631ce444c8a5fc07b8c5b86fc~mv2.jpg</image>
@@ -3895,17 +4041,30 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>87c5bc42-873f-4521-b444-364cd7fc2045</uniqueid>
-    <name>Κολιέ από ορείχαλκο Ν.109</name>
-    <sku>783a43bd-78c0-bade-4bbb-c9b32803dfba</sku>
-    <description>Κολιέ από ορείχαλκο με αχάτη και κρύσταλλα χρυσό με πράσινο κρύσταλλο δεμένα μεταξύ τους με σύρμα  μήκος 40 έως 45cm </description>
-    <image>https://static.wixstatic.com/media/2cbaff_7634c79521774004b4b1ec2889097e33~mv2.png</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_188769bf52a94f08bcaa0a905d103eaa~mv2.jpg</additionalImage>
+    <uniqueid>ebe919e6-9ef5-a5df-71cb-5d2e5d537e0f</uniqueid>
+    <name>Κολιέ από ορείχαλκο.OR.11</name>
+    <sku>1416e619-610a-5a20-8e34-a2d1a2ac81f0</sku>
+    <description>Κολιέ από ορείχαλκο με αχάτη και κρύσταλλα χρυσό  δεμένα μεταξύ τους με σύρμα  μήκος 40 έως 45 cm</description>
+    <image>https://static.wixstatic.com/media/2cbaff_3b468051e52e4ff8895994d535ad177f~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_b3f5184700094575a1d24420a0fbfacc~mv2.jpg</additionalImage>
     <category>Κολιέ</category>
     <weight>10gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ορείχαλκο-με-αχάτη-και-κρύσταλλα-χρυσό</link>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ορείχαλκο-με-αχάτη-και-κρύσταλλα-χρυσό-1</link>
     <price>36.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>f21f23ba-6ec9-b724-3153-de53aed87d34</uniqueid>
+    <name>Κολιέ από ορείχαλκο.OR.13</name>
+    <sku>0de0dc45-9136-48db-ceac-21ac512782cb</sku>
+    <description>Κολιέ από ορείχαλκο με τρεις κρίκους ασημί μήκους 9 εκατοστών με σχοινί ρυθμιζόμενο </description>
+    <image>https://static.wixstatic.com/media/2cbaff_e332279e5a824a6b8616cd4e93688a8a~mv2.jpg</image>
+    <category>Κολιέ</category>
+    <weight>7gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ορείχαλκο-με-κρίκους-ασημί</link>
+    <price>22.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -3947,32 +4106,6 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-ασήμι-925-ns-202</link>
     <price>22.8</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>877a3ef9-ed80-ad9c-7290-dd940124a564</uniqueid>
-    <name>Κολιέ ασήμι 925 δέντρο NS.200</name>
-    <sku>7885c106-127f-5263-8d6f-226bfedb5a9b</sku>
-    <description>Κολιέ από ασήμι 925 με κεντρικό στοιχείο δέντρο με διάφανα ζιργκόν και μπλε κρύσταλλα.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_4a9d77c21d1045df878dfa0790a38791~mv2.png</image>
-    <category>Κολιέ</category>
-    <weight>4gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/κολιέ-ασήμι-925-δέντρο-ns-200</link>
-    <price>22</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>55492931-db6e-487d-d479-3fd45d1bb3db</uniqueid>
-    <name>Κολιέ ασήμι 925 καρδιά NS.201</name>
-    <sku>aab6d6ce-2491-b782-2b86-c02ba2e44c24</sku>
-    <description>Κόλια από ασήμι 925 με κεντρικό καρδιά με ζιργκόν και κορώνα.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_7d88156dee704ecaa6a4f9f4e344d43f~mv2.png</image>
-    <category>Κολιέ</category>
-    <weight>4gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/κολιέ-ασήμι-925-καρδιά-ns-201</link>
-    <price>18.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -4289,7 +4422,7 @@
   </product>
   <product>
     <uniqueid>495d27f0-db82-322b-ab6c-7571740613ec</uniqueid>
-    <name>Κολιέ με κρίκους χρυσό Ν.103</name>
+    <name>Κολιέ με κρίκους χρυσό OR.08</name>
     <sku>b6a2d80f-247d-cdd4-5493-8a8e8bf9ec13</sku>
     <description>Κολιέ με κρίκους χρυσούς 2.50 εκατοστά ο καθένας 45cm συνολικά </description>
     <image>https://static.wixstatic.com/media/2cbaff_6c4f132dd38f4c3387a740748de4af9e~mv2.jpg</image>
@@ -4890,7 +5023,7 @@
   </product>
   <product>
     <uniqueid>03f9c3e2-e6a6-51ed-c932-b99527d057f8</uniqueid>
-    <name>Σκουλαρίκια από ορείχαλκο Ε.309</name>
+    <name>Σκουλαρίκια από ορείχαλκο OR.22</name>
     <sku>fc063c1d-1959-ae12-36cd-466ad82fa807</sku>
     <description>Σκουλαρίκια από ορείχαλκο 12cm χειροποίητα </description>
     <image>https://static.wixstatic.com/media/2cbaff_448c9d234bd746228f9d80367d068e54~mv2.jpg</image>
@@ -4902,8 +5035,47 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>0d98fa66-cf1b-6e98-55be-75fe4a3811c2</uniqueid>
+    <name>Σκουλαρίκια από ορείχαλκο OR.50</name>
+    <sku>f2670599-30e4-9167-aa41-8a01b5c7ee3d</sku>
+    <description>Σκουλαρίκια από ορείχαλκο με κρεμαστές χάντρες σε ασημί απόχρωση μήκος 10εκ</description>
+    <image>https://static.wixstatic.com/media/2cbaff_d487cf70d7df4d37a8a91dc7b7b1a919~mv2.jpeg</image>
+    <category>Σκουλαρίκια</category>
+    <weight>8γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ορείχαλκο-or-50</link>
+    <price>49</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>3454ccf9-036b-81a3-4efc-4a6ae7d87de1</uniqueid>
+    <name>Σκουλαρίκια από ορείχαλκο OR.51</name>
+    <sku>cbab3306-fc94-7e5c-b103-b5951827821e</sku>
+    <description>Σκουλαρίκια από ορείχαλκο κρεμαστά σε ασήμι απόχρωση μήκος 11εκ</description>
+    <image>https://static.wixstatic.com/media/2cbaff_9bee07262e314bd9bb4adb446a9714f1~mv2.jpeg</image>
+    <category>Σκουλαρίκια</category>
+    <weight>7γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ορείχαλκο-or-51</link>
+    <price>37.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>d34690ae-4190-31f7-9810-4104578c255f</uniqueid>
+    <name>Σκουλαρίκια από ορείχαλκο OR.52</name>
+    <sku>2cb96f51-be6f-ce08-67ef-befba873daa0</sku>
+    <description>Σκουλαρίκια από ορείχαλκο κρίκοι σε ασημί απόχρωση διάμετρος 5.50εκ</description>
+    <image>https://static.wixstatic.com/media/2cbaff_36a9176ab011422f8ddc70c1e4ad1c75~mv2.jpeg</image>
+    <category>Σκουλαρίκια</category>
+    <weight>7γρ</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ορείχαλκο-or-52</link>
+    <price>25.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>8799ff6d-fe06-a3b7-2abc-48c674dcf7b1</uniqueid>
-    <name>Σκουλαρίκια από ορείχαλκο λευκά Ε.314</name>
+    <name>Σκουλαρίκια από ορείχαλκο.OR 26</name>
     <sku>78660092-01f9-5c48-d543-b7398b23084e</sku>
     <description>Χειροποίητα σκουλαρίκια από ορείχαλκο λευκά μήκος 3.50 εκατοστά </description>
     <image>https://static.wixstatic.com/media/2cbaff_97b70f7dc75b40a496442db5ef9eaef0~mv2.jpg</image>
@@ -4916,7 +5088,7 @@
   </product>
   <product>
     <uniqueid>babae124-f0c7-bf58-b7fc-a519d1888df3</uniqueid>
-    <name>Σκουλαρίκια κρεμαστά με χρυσούς κρίκους Ε.302</name>
+    <name>Σκουλαρίκια κρεμαστά από ορείχαλκο. OR.06</name>
     <sku>45451edb-0f38-40a7-4803-5ae62e77720c</sku>
     <description>Κρεμαστά σκουλαρίκια σε χρυσή απόχρωση με τρεις κρίκους συνολικό μήκος 8cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_5712204d62af4a4386118af241a51ade~mv2.jpg</image>
@@ -4942,7 +5114,7 @@
   </product>
   <product>
     <uniqueid>22e59927-a9f5-8968-9c28-59bf011cde19</uniqueid>
-    <name>Σκουλαρίκια φίδι από ορείχαλκο ΕST 9</name>
+    <name>Σκουλαρίκια φίδι από ορείχαλκο. OR 21</name>
     <sku>dd1a66d8-560a-7697-63d7-a640fee321e6</sku>
     <description>Επιχρυσωμένα σκουλαρίκια φίδι από ορείχαλκο κρεμαστά με μήκος 4 εκατοστά </description>
     <image>https://static.wixstatic.com/media/2cbaff_64f4564673c24ea2b591bf9b9a634cfe~mv2.jpg</image>
@@ -5487,7 +5659,7 @@
   </product>
   <product>
     <uniqueid>f024f947-6455-f30c-6c83-2279054e8eca</uniqueid>
-    <name>Χειροποίητο σκουλαρίκι από ορείχαλκο ροζ χρυσό E.300</name>
+    <name>Χειροποίητο σκουλαρίκι από ορείχαλκο.OR.05</name>
     <sku>0fdb06b8-9baa-0cf3-937c-dd86fab17135</sku>
     <description>Χειροποίητο σκουλαρίκι από ορείχαλκο με δύο κρίκους μικρό και μεγάλο σε οβάλ και ροζ χρυσό χρώμα, μήκος 7cm</description>
     <image>https://static.wixstatic.com/media/2cbaff_300f2eb92849485fb0eb01606fe16bae~mv2.png</image>
