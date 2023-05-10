@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-05-09 17:36</created_at>
+  <created_at>2023-05-10 10:32</created_at>
+  <product>
+    <uniqueid>a5a25aea-b148-51d8-f7a4-10a256b4dc6d</uniqueid>
+    <name> Σκουλαρίκια από ατσάλι. ΕST. 39</name>
+    <sku>5a5da515-4eb7-ae27-085b-ef5da94b2392</sku>
+    <description>Σκουλαρίκια από ατσάλι επιχρυσωμένα τρεισειρα  οβάλ. Μηκος 2 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_27fac1a5cbe646f993d7c2c07de95af4~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_20fe00a04b604fb3bd2cfb645fd34f3d~mv2.png</additionalImage>
+    <category>Σκουλαρίκια</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-εst-39</link>
+    <price>14.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
   <product>
     <uniqueid>e33e77f2-f469-c78f-5164-e7aca44cbb8e</uniqueid>
     <name>Glam επιχρυσωμένα σκουλαρικια Ε.317</name>
@@ -5099,6 +5113,113 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ασήμι-e-sl-13</link>
     <price>22.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>1f0c5cb9-4fb2-88b3-e03d-ba963f478ee2</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι.  EST. 42</name>
+    <sku>e0f3a346-b04d-774c-1fc2-4569c0b8711d</sku>
+    <description>Σκουλαρίκια από ατσάλι με ασημένιο ρομβο και στην κάτω πλευρά σταγόνα πράσινη. Μηκος 3.50 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_5e1f249160db46cdacbb704b096eb183~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est-42</link>
+    <price>14.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>4a8a0fc1-1384-cd3b-7aa2-71501ff681e4</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι.  EST. 43</name>
+    <sku>b575f03e-ec7b-32c4-855d-8eafe0097e1b</sku>
+    <description>Σκουλαρίκια από ατσάλι με κρίκους και μάργαρο ενωμένα μεταξύ τους με γρανα (καρφάκι) .Μήκος 3.50 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_8512109eb5d44f7eb42f5b9d9fbccdc2~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>9 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est-43</link>
+    <price>13.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>71192b30-261c-487d-8af9-788675832e27</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι. EST.</name>
+    <sku>8ee6d4cf-d9e3-b782-7506-87798a7cd1d8</sku>
+    <description>Σκουλαρίκια από ατσάλι επιχρυσωμένα με ροζ χρυσό με δύο ρομβους ενωμένους μεταξύ τους και στο πάνω μέρος κύκλος. Μήκος  7 εκατοστά. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_0666545119c24a9fb5de2b96b90a12ad~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>10 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est</link>
+    <price>14.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>272ef36b-271e-bcda-ffdd-d1af572307e8</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι. EST. 41</name>
+    <sku>d8d10c94-d8e1-4325-0022-2e50a8dcf817</sku>
+    <description>Σκουλαρίκια από ατσάλι ασημί με μπίλιες σε κρίκο ανοιγομενο στο πίσω μέρος. Μήκος 3 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_a64d1baea53c4645ae6a5667a2c2426f~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est-41</link>
+    <price>14.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>d54f104b-c3ba-1853-a0a3-af2e1f7a1c6a</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι. EST. 41</name>
+    <sku>2ab0efb4-3c45-e7ac-5f5c-50d1e085e395</sku>
+    <description>Σκουλαρίκια από ατσάλι επιχρυσωμένα ροζ χρυσό τετράγωνα  δύο σειρές ανοιγομενο στο πίσω μέρος. Μήκος  3 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_232edf90fe4548adaefb5b7d56c7f15f~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_7fa73490c55e4ec49da6ce535a132db0~mv2.png</additionalImage>
+    <category>Σκουλαρίκια</category>
+    <weight>6 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est-41-1</link>
+    <price>12.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>ad7695ee-94df-5c7e-8a51-da22de17981b</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι. EST. 44</name>
+    <sku>52896a11-6b20-a381-75ae-25dd21e867e4</sku>
+    <description>Σκουλαρίκια από ατσάλι κρίκοι σκαλιστοι και ανοιγομενοι στο πίσω μέρος. Μήκος  2 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_0307d28d2a7f4527baee459c615854fd~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_ea676fe4d0fc4d08a3145e9262f4c42d~mv2.png</additionalImage>
+    <category>Σκουλαρίκια</category>
+    <weight>7 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est-44</link>
+    <price>14.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>624f7c2a-3599-90d2-e409-3e7bc0dd07c9</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι. EST.38</name>
+    <sku>9db083d5-ca66-6f2d-1bf6-c1843f22f836</sku>
+    <description>Σκουλαρίκια από ατσάλι επιχρυσωμένα  με πολλαπλές σειρές σύρμα ανοιχτά στο πίσω μέρος. Μήκος 4 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_904418b9e183445b8532a00f3b1af7db~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_a5fc7bb568aa41d2ac36626bf45e7426~mv2.png</additionalImage>
+    <category>Σκουλαρίκια</category>
+    <weight>12 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est-38</link>
+    <price>14.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>9ecf65f5-ee69-1968-587c-6a563310d730</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι. EST.40</name>
+    <sku>61309a0a-1196-e697-a783-95a9ccef28cf</sku>
+    <description>Σκουλαρίκια από ατσάλι επιχρυσωμένα σε σχήμα παραμανας με καρδούλα. Μήκος  3 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_6daff67fcefd44ee89efc7b4439a679c~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>6 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est-40</link>
+    <price>14.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
