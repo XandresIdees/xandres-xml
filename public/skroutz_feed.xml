@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-05-24 11:41</created_at>
+  <created_at>2023-05-26 10:15</created_at>
   <product>
     <uniqueid>a5a25aea-b148-51d8-f7a4-10a256b4dc6d</uniqueid>
     <name> Σκουλαρίκια από ατσάλι. ΕST. 39</name>
@@ -109,6 +109,158 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ανδρικό-ατσάλινο-βραχιόλι</link>
     <price>14.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>8a4702f5-e652-eca3-9b06-b3bd522b73d7</uniqueid>
+    <name>Αντρικο βραχιολι. ΜΒ 25</name>
+    <sku>75b8fd0a-19ad-135c-64f9-4c42add48c28</sku>
+    <description>Αντρικο βραχιολι από ατσάλι διπλό με δέρμα μαύρο και συσρταροτο τελείωμα. Μηκος 21 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_5ec6df48279a40428971f718d20bb117~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_7ebd82eb5ea543598855221096273b75~mv2.png</additionalImage>
+    <category>Βραχιολι</category>
+    <weight>20 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/αντρικο-βραχιολι-μβ-24</link>
+    <price>22.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>d7e8962a-d44a-7b67-4f68-f98424a40490</uniqueid>
+    <name>Αντρικο βραχιολι. ΜΒ 27</name>
+    <sku>281769d5-2bb5-8498-b097-067bdb5bfb6f</sku>
+    <description>Αντρικο βραχιολι με πλεκτό δέρμα μπλε και ατσάλινα στοιχεία μαύρα και μπλε με συρταροτο τελείωμα. Μηκος 21 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_22e984c421db469e98d163bbf6fe057b~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_105b820d8a3f4ecdbc4a30d29e3bfe2f~mv2.png</additionalImage>
+    <category>Βραχιολι</category>
+    <weight>17 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/αντρικο-βραχιολι-μβ-27</link>
+    <price>22</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>86816050-2812-f60a-ec62-c64dbbf56b11</uniqueid>
+    <name>Αντρικο βραχιολι. ΜΒ. 26</name>
+    <sku>797e9faf-d7ed-09f5-139d-39b2440a94ee</sku>
+    <description>Αντρικο βραχιολι από ατσάλι με δύο όψεις από την μία ασημί με μαύρο και από την άλλη μόνο ασημί. Μηκος 20 έως 21 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_05181e88f34b48f784741c6da6825196~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_e58f374840944fc4a8fc04aaf20b3f32~mv2.png</additionalImage>
+    <category>Βραχιολι</category>
+    <weight>18 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/αντρικο-βραχιολι-μβ-26</link>
+    <price>28.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>7e052d61-cd7d-cb07-ff72-d2550c579416</uniqueid>
+    <name>Αντρικο βραχιολι. ΜΒ.23</name>
+    <sku>81fad29e-3282-34f8-008d-2daaf3a86be9</sku>
+    <description>Αντρικο βραχιολι από ατσάλι ενωμένα μεταξύ τους με ατσάλινους ποιρους. Μηκος 21 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_540556ce246a491bb260111888efbd5d~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_94210f2cfac5468a8f2f0e0bd979bd3a~mv2.png</additionalImage>
+    <category>Βραχιολι</category>
+    <weight>20 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/αντρικο-βραχιολι-μβ-23</link>
+    <price>22.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>ade6b49c-b264-1b39-2997-c903eb8ec639</uniqueid>
+    <name>Αντρικο βραχιολι. ΜΒ.24</name>
+    <sku>52194b63-4d9b-e4c6-d668-36fc147139c6</sku>
+    <description>Αντρικο βραχιολι από ατσάλι ροζ χρυσό με συρταροτο κούμπωμα και ρυθμιζόμενο σε μήκος. Μηκος 20.5 έως 22 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_ff38bb8552db402e93eee65d09d7ac57~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_26b068186a734f6cae6602c5fa94a32a~mv2.png</additionalImage>
+    <category>Βραχιολι</category>
+    <weight>19 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/αντρικο-βραχιολι-μβ-23-1</link>
+    <price>22</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>5e0dc76b-1aaa-90f3-adbe-2acb4f8abe1f</uniqueid>
+    <name>Αντρικο βραχιολι. ΜΒ.28</name>
+    <sku>a1f23894-e555-6f0c-5241-d534b07541e0</sku>
+    <description>Αντρικο βραχιολι με τριπλό δέρμα ατσάλινο τελείωμα και ατσάλινη άγκυρα . Μηκος 21 εκατοστά. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_de70921f670d460399752d469400d9ed~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_ac4c927088c34f35a6c36b6e62c01fbe~mv2.png</additionalImage>
+    <category>Βραχιολι</category>
+    <weight>22 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/αντρικο-βραχιολι-μβ-28</link>
+    <price>22.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>90411cc0-9e98-80d3-973e-e260f0182102</uniqueid>
+    <name>Αντρικο βραχιολι. ΜΒ.29</name>
+    <sku>6fbee33f-6167-7f2c-68c1-1d9f0fe7defd</sku>
+    <description>Αντρικο βραχιολι τριπλό με μαύρο δέρμα και ατσάλινο αγκίστρι με ατσάλινο συρταροτο τελείωμα. Μήκος 21 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_195db497d142491b83730cf4c77e9287~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_75f6f3e7f2c34fc29587272496ab3e9d~mv2.png</additionalImage>
+    <category>Βραχιολι</category>
+    <weight>21 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/αντρικο-βραχιολι-μβ-29</link>
+    <price>18.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>3d9968be-ed7b-321c-33eb-9489513b25b0</uniqueid>
+    <name>Αντρικο βραχιολι. ΜΒ.30</name>
+    <sku>c2669741-1284-cde3-cc14-6b76aec4da4f</sku>
+    <description>Αντρικο βραχιολι με πλεκτό δέρμα και συρταροτο τελείωμα από ατσάλι. Μήκος 20 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_5a6a06ae6739417a95dfb92f7cad7305~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_630bba058e854fcc95d215c4b9a8abfa~mv2.png</additionalImage>
+    <category>Βραχιολι</category>
+    <weight>13 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/αντρικο-βραχιολι-μβ-30</link>
+    <price>16.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>9b0288f1-8ed3-55c9-4ae9-5aa8b408dc15</uniqueid>
+    <name>Αντρικο βραχιολι. ΜΒ.31</name>
+    <sku>64fd770e-712c-aa36-b516-a5574bf723ea</sku>
+    <description>Αντρικο βραχιολι με πλεκτό δέρμα ατσάλινη μπάρα και μαγνητικό ατσάλινο τελείωμα. Μηκος 20 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_d377ef693579486e95b03606b22706f2~mv2.png</image>
+    <category>Βραχιολι</category>
+    <weight>6 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/αντρικο-βραχιολι-μβ-31</link>
+    <price>19.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>0d7b7cca-74eb-360c-7db9-91cf720cebfc</uniqueid>
+    <name>Αντρικο βραχιολι. ΜΒ.32</name>
+    <sku>f2848335-8b14-c9f3-8246-6e308df31403</sku>
+    <description>Αντρικο βραχιολι με πλεκτό δέρμα και ατσάλινη μπάρα  με μαγνητικό ατσάλινο τελείωμα. Μηκος 20 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_c55578a334c64e229af7180645aa35e3~mv2.png</image>
+    <category>Βραχιολι</category>
+    <weight>6 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/αντρικο-βραχιολι-μβ-32</link>
+    <price>19.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>204a7b00-f9b2-d54a-eb66-d5fbe2b1f456</uniqueid>
+    <name>Αντρικο βραχιολι. ΜΒ.33</name>
+    <sku>dfb584ff-064d-2ab5-1499-2a041d4e0ba9</sku>
+    <description>Αντρικο βραχιολι από ατσάλι και πλακέ μαύρο δέρμα με μπάρα από ατσάλι και ατσάλινο τελείωμα. Μηκος 20 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_81d5d30d06fd4e80aa7adc958a585ac2~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_2ecbda90e53344c6956b5b282e52c6c1~mv2.png</additionalImage>
+    <category>Βραχιολι</category>
+    <weight>16 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/αντρικο-βραχιολι-μβ-33</link>
+    <price>22.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
