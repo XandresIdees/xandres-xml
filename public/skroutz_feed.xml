@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-05-26 10:15</created_at>
+  <created_at>2023-06-13 10:17</created_at>
   <product>
     <uniqueid>a5a25aea-b148-51d8-f7a4-10a256b4dc6d</uniqueid>
     <name> Σκουλαρίκια από ατσάλι. ΕST. 39</name>
@@ -917,6 +917,20 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-χρυσή-απόχρωση-7</link>
     <price>14.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>a3978f3f-f518-ed3a-eb55-6a2cee1715c8</uniqueid>
+    <name>Ατσάλινα σκουλαρίκια. EST.48</name>
+    <sku>5c6870c0-0ae7-12c5-14aa-95d311e8ea37</sku>
+    <description>Ατσάλινα σκουλαρίκια με μαργαρίτες και ατσάλινη βάση. Μηκος/διάμετρο 3 εκατοστά. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_7b23f65a91e6417293fa31488c11ebcb~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_b55edbd21de64307861e17e035c2e090~mv2.jpg</additionalImage>
+    <category>Σκουλαρίκια</category>
+    <weight>6  gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-est-48</link>
+    <price>9.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -2598,6 +2612,34 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-τύπου-bvlgari-nst-507</link>
     <price>13.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>27851643-32bf-dfc7-ccd7-5ed698ca3814</uniqueid>
+    <name>Ατσάλινο κολιέ. NTS.633</name>
+    <sku>d87ae9bc-cd40-2038-3328-a1296735c7eb</sku>
+    <description>Ατσάλινο κολιέ με τρεις αλυσίδες ενωμένες μεταξύ τους.  Μηκος 45 έως 50 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_eaad0381783a42dd91848e75dbbf60da~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_692a741c96ff4f98a46ce492f730646a~mv2.jpg</additionalImage>
+    <category>Κολιέ</category>
+    <weight>12 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-nts-633</link>
+    <price>15.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>4fa93524-aa3b-695c-1162-bb6adcca1747</uniqueid>
+    <name>Ατσάλινο κολιέ. ΝTS.632</name>
+    <sku>b056cadb-55c4-96a3-ee9d-44952335e8b8</sku>
+    <description>Ατσάλινο κολιέ αλυσίδα με ατσάλινο τελείωμα και δυνατότητα αλλαγής μεγέθους. Μηκος  52 έως 58 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_a705c59460484ed8a395b2e87023f594~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_31b3b15cf61f4f49b660c85053447f2c~mv2.jpg</additionalImage>
+    <category>Κολιέ</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-νts-632</link>
+    <price>9.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -5683,6 +5725,20 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>c591dce5-9f4d-7dae-b2b3-74868773b29b</uniqueid>
+    <name>Χειροποίητα σκουλαρίκια. ΕHM.20</name>
+    <sku>3a6e231a-60b2-8251-4d4c-8b79788c4d64</sku>
+    <description>Χειροποίητα σκουλαρίκια με βάση καρδούλα και μάργαρο κρεμαστό με καρφάκι. Μήκος 5 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_c42e019dc59744ac9c3118538a36b4db~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_266e2855f3a340a9818b3f7beb3076d1~mv2.jpg</additionalImage>
+    <category>Σκουλαρίκια</category>
+    <weight>7 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/χειροποίητα-σκουλαρίκια-εhm-20</link>
+    <price>11.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>26098138-f7f5-f57b-8fcf-9edfcab3e04d</uniqueid>
     <name>Χειροποίητο ατσάλινο βραχιόλι ΒRST20</name>
     <sku>d9f67ec7-080a-0a84-7030-6120354c1fb2</sku>
@@ -6327,6 +6383,20 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>85af30d7-5dc7-80b1-3828-a98b871be9eb</uniqueid>
+    <name>Χειροποίητο κολιέ. NCH 17</name>
+    <sku>7a50cf28-a238-7f4e-c7d7-567478e41614</sku>
+    <description>Χειροποίητο κολιέ με μαργαριτάρια ημιπολύτιμες πέτρες και ατσάλινο τελείωμα. Μήκος 44 έως 49 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_eb995b34e9eb4cd4a762600a11eb20a9~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_f27a37d1614144468f51027ba2fb2b69~mv2.jpg</additionalImage>
+    <category>Κολιέ</category>
+    <weight>15 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/χειροποίητο-κολιέ-nch-17</link>
+    <price>28.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>0f8b2f63-4bc0-2b53-f5ee-264b6184e514</uniqueid>
     <name>Χειροποίητο κολιέ. NCH. 06</name>
     <sku>f074d09c-b43f-d4ac-0a11-d9b49e7b1aeb</sku>
@@ -6376,6 +6446,20 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-κολιέ-nch-16</link>
     <price>18.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>e6e70428-dfeb-b978-df1d-6ef3e471af6d</uniqueid>
+    <name>Χειροποίητο κολιέ. NCH.18</name>
+    <sku>1918fbd7-2014-4687-20e2-910c1b8e5092</sku>
+    <description>Χειροποίητο κολιέ με χάντρες ροκάι χρωματιστες και μαργαριτάρια με ατσάλινο τελείωμα. Μήκος 40 έως 44 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_c13aa5229a6d4b5b88f21ece9c0207c7~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_6272622664fd4172b2b974834a24e4c2~mv2.jpg</additionalImage>
+    <category>Κολιέ</category>
+    <weight>9 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/χειροποίητο-κολιέ-nch-18</link>
+    <price>13.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
