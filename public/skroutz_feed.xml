@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-06-13 10:17</created_at>
+  <created_at>2023-06-24 08:35</created_at>
   <product>
     <uniqueid>a5a25aea-b148-51d8-f7a4-10a256b4dc6d</uniqueid>
     <name> Σκουλαρίκια από ατσάλι. ΕST. 39</name>
@@ -449,20 +449,6 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ασημένιο-επιχρυσωμένο-κολιέ</link>
     <price>19.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>c20c0114-558b-0da9-b471-13d7a3d453e9</uniqueid>
-    <name>Ασημένιο κολιέ  NS.15</name>
-    <sku>3df3feeb-aa74-f256-4b8e-ec285c2bac16</sku>
-    <description>Ασημένιο κολιέ 925 δάκρυα με καρφωτά ζιργκόν μήκος 40 εκατοστά </description>
-    <image>https://static.wixstatic.com/media/2cbaff_1c4b3a3ba790405e910017ab193f1984~mv2.jpg</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_3ff8a37e14584db2867ac04635ffdf88~mv2.jpg</additionalImage>
-    <category>Κολιέ</category>
-    <weight>7gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/ασημένιο-κολιέ-1</link>
-    <price>21.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -931,6 +917,58 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-est-48</link>
     <price>9.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>a9a1cafe-0a02-b5c4-d6c3-3c2b4ce0c4c8</uniqueid>
+    <name>Ατσάλινα σκουλαρίκια. EST.52</name>
+    <sku>565e3501-f5fd-4a3b-293c-c3d4b31f3b37</sku>
+    <description>Σκουλαρίκια κρίκοι από ανοξείδωτο ατσάλι με κρεμαστό φίλντισι </description>
+    <image>https://static.wixstatic.com/media/2cbaff_11070d4725c64a79a7fc83566c06f55e~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-est-52</link>
+    <price>5.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>4a4376a3-5be7-0c95-fd6f-85b8c63f7be7</uniqueid>
+    <name>Ατσάλινα σκουλαρίκια. ΕST.49</name>
+    <sku>b5bc895c-a418-f36a-0290-7a4739c08418</sku>
+    <description>Σκουλαρίκια κρικάκια από ανοξείδωτο ατσάλι σε χρυσό χρώμα με κρεμαστές πορτοκαλί καρδούλες από φίλντισι </description>
+    <image>https://static.wixstatic.com/media/2cbaff_eabf1e223c5f4782b8cf9e3a60a0b2b8~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-εst-49</link>
+    <price>5.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>a9f58486-8db1-ecaa-2a31-0ad42758f20e</uniqueid>
+    <name>Ατσάλινα σκουλαρίκια.EST 50</name>
+    <sku>560a7b79-724e-1355-d5ce-f52bd8a70df1</sku>
+    <description>Σκουλαρίκια κρικάκια από ατσάλι και κρεμαστή καρδούλα από φίλντισι. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_55cae4b543284e6599df256c121b7d1b~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-est-50</link>
+    <price>5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>d4ab520f-9a56-c9eb-cd72-dce43f6c2e7f</uniqueid>
+    <name>Ατσάλινα σκουλαρίκια.EST.56</name>
+    <sku>2b54adf0-65a9-3614-328d-231bc093d180</sku>
+    <description>Σκουλαρίκια κρικάκια από ανοξείδωτο ατσάλι με κρεμαστό φίλντισι </description>
+    <image>https://static.wixstatic.com/media/2cbaff_74d817bfd77f4c928c5a84fb4ebe53e9~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-est-56</link>
+    <price>5.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -2171,21 +2209,6 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-nts-620</link>
     <price>16.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>bc77de62-6c3b-616c-47f9-570eb5000197</uniqueid>
-    <name>Ατσάλινο κολιέ NTS.626</name>
-    <sku>4388219d-93c4-9e93-b806-a8f14afffe68</sku>
-    <description>Ατσάλινο κολιέ με κρεμαστα στοιχεία από ατσάλι,μαργαρο και κρύσταλλο μήκος 42εκ</description>
-    <image>https://static.wixstatic.com/media/2cbaff_ec01141399424566b1cee913745146ae~mv2.jpg</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_41197be3aade4d77be2e063d3389562c~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_8e3b2cd4ba8e45e2884f7c8d8f2dadbd~mv2.jpg</additionalImage>
-    <category>Κολιέ</category>
-    <weight>7γρ</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/ατσάλινο-κολιέ-nts-626</link>
-    <price>16.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -4857,19 +4880,6 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>0d852463-e32e-1ac3-5a24-67ab9aebf318</uniqueid>
-    <name>Μάρτης ατσάλι λουλούδι Mar.02</name>
-    <sku>f27adb9c-1cd1-e53c-a5db-985465140ce7</sku>
-    <description>Μάρτης με ατσάλινο επιχρυσωμένο λουλούδι και κρύσταλλα λευκά και κόκκινα με μακραμε τελείωμα.Διαστάσεις 10-24cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_ec09fec8458e473da319b6f3e99e6907~mv2.png</image>
-    <category>Βραχιόλι</category>
-    <weight>5gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/μάρτης-ατσάλι-λουλούδι-mar-02</link>
-    <price>7.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <uniqueid>6281fdba-ea55-92bf-2d6f-8ff37c2363a4</uniqueid>
     <name>Μάρτης ατσάλι μάτι Mar.06</name>
     <sku>9d7e0245-15aa-6d40-d290-700c83dc9c5b</sku>
@@ -5450,6 +5460,58 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>89bfacab-c620-e5c2-bed9-a5214f0bca58</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι. EST.51</name>
+    <sku>76405354-39df-1a3d-4126-5adeb0f435a7</sku>
+    <description>Σκουλαρίκια κρικάκια από ανοξείδωτο ατσαλι και κρεμαστό φίλντισι. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_d5200a6c0261443fb8e07361bdb16888~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est-51</link>
+    <price>5.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>c5a2e853-1f1f-9a01-8bbc-5fbfe1028c0c</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι. EST.53</name>
+    <sku>3a5d17ac-e0e0-65fe-7443-a0401efd73f3</sku>
+    <description>Σκουλαρίκια κρικάκια από ανοξείδωτο ατσάλι  και κρεμαστό φίλντισι </description>
+    <image>https://static.wixstatic.com/media/2cbaff_f32696b7580b4be6987d7151cd09e9be~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est-53</link>
+    <price>5.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>7c32339a-a504-0fa6-8dfa-635abc53b6bc</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι. EST.54</name>
+    <sku>83cdcc65-5afb-f059-7205-9ca543ac4943</sku>
+    <description>Σκουλαρίκια από ανοξείδωτο ατσάλι κρικάκια με κρεμαστή καρδούλα από φίλντισι </description>
+    <image>https://static.wixstatic.com/media/2cbaff_bcf53a55a9744e3c9c6c45f279c2c5ab~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est-54</link>
+    <price>5.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>67a8ab42-e8be-4eed-9c25-f649c1d911a1</uniqueid>
+    <name>Σκουλαρίκια από ατσάλι. EST.55</name>
+    <sku>985754bd-1741-b112-63da-09b63e26ee5e</sku>
+    <description>Σκουλαρίκια κρικάκια από ανοξείδωτο ατσάλι και κρεμαστή καρδούλα από φίλντισι </description>
+    <image>https://static.wixstatic.com/media/2cbaff_6c701487b434421d99b85176132db6d1~mv2.png</image>
+    <category>Σκουλαρίκια</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ατσάλι-est-55</link>
+    <price>5.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>c0106b4e-6563-af47-e80c-3cf4ffb95b9d</uniqueid>
     <name>Σκουλαρίκια από ατσάλι.EST.46</name>
     <sku>3fef94b1-9a9c-50b8-17f3-c30b0046a462</sku>
@@ -5539,19 +5601,6 @@
     <weight>35 gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ορείχαλκο-or</link>
-    <price>18.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>10ba73ac-4da7-370b-4045-294af1348e98</uniqueid>
-    <name>Σκουλαρίκια από ορείχαλκο. OR 65</name>
-    <sku>ef458c53-b258-c8f4-bfba-d6b50ecb7167</sku>
-    <description>Σκουλαρίκια από ορείχαλκο επιχρυσωμένα με δύο φύλλα ενωμένα μεταξύ τους. Μηκος 18 εκατοστά </description>
-    <image>https://static.wixstatic.com/media/2cbaff_98139ae4e4bf425a93d2f8c52c9fa6ac~mv2.png</image>
-    <category>Σκουλαρίκια</category>
-    <weight>18 gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/σκουλαρίκια-από-ορείχαλκο-or-65</link>
     <price>18.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
