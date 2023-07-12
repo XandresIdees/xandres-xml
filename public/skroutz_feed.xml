@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-06-24 08:35</created_at>
+  <created_at>2023-07-12 06:41</created_at>
   <product>
     <uniqueid>a5a25aea-b148-51d8-f7a4-10a256b4dc6d</uniqueid>
     <name> Σκουλαρίκια από ατσάλι. ΕST. 39</name>
@@ -5865,6 +5865,32 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>7e353c94-5ea7-91c7-30fc-8c4cd761c1b8</uniqueid>
+    <name>Χειροποίητο βραχιόλι  BRX. 20</name>
+    <sku>81cac36b-a158-6e38-cf03-73b3289e3e47</sku>
+    <description>Χειροποίητο βραχιόλι με κρύσταλλα μαργαριτάρι και ημιπολύτιμη πέτρα αιματιτη με ατσάλινο τελείωμα Μήκος.  18 έως 22 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_8c9022fb8a204adc85d9ba3f162074db~mv2.png</image>
+    <category>Βραχιολι</category>
+    <weight>9 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-brx-20</link>
+    <price>11.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>821678f8-07d9-a646-ed5a-a621fa060cef</uniqueid>
+    <name>Χειροποίητο βραχιόλι  BRX.19</name>
+    <sku>7de98707-f826-59b9-12a5-59de05f9f310</sku>
+    <description>Χειροποίητο βραχιόλι με μαργαριτάρια και κεντρικό στοιχείο χρωματιστό μαργαριτάρι με ατσάλινο τελείωμα. Μήκος 18 έως 22 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_3bddfdf876d24d5c82e52e6fd915496b~mv2.png</image>
+    <category>Βραχιολι</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-brx-19</link>
+    <price>16.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>fe050ad9-45af-e2e3-1270-5d0f57db51e4</uniqueid>
     <name>Χειροποίητο βραχιόλι BRX. 11</name>
     <sku>01faf526-ba50-1d1c-ed8f-a2f0a824ae1b</sku>
@@ -6149,6 +6175,32 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>d42664a4-1508-e847-4816-19d05bf0b464</uniqueid>
+    <name>Χειροποίητο βραχιόλι. BRX. 17</name>
+    <sku>2bd99b5b-eaf7-17b8-b7e9-e62fa40f4b9b</sku>
+    <description>Χειροποίητο βραχιόλι με μαργαριτάρια και αιματιτη ημιπολύτιμη  πέτρα .Μηκος 17 έως 20 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_69910e9c3dc849399a8b543e119474e0~mv2.png</image>
+    <category>Βραχιολι</category>
+    <weight>9 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-brx-17</link>
+    <price>12.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>fb8cf223-1519-ef3a-4067-845adb124f0b</uniqueid>
+    <name>Χειροποίητο βραχιόλι. ΒRX. 18</name>
+    <sku>04730ddc-eae6-10c5-bf98-7ba524edb0f4</sku>
+    <description>Χειροποίητο βραχιόλι με μαργαριτάρια και πράσινο αχάτη με ατσάλινο τελείωμα. Μήκος 18 έως 21 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_69f8a944de0b457986f6a4d3d4451b00~mv2.png</image>
+    <category>Βραχιολι</category>
+    <weight>12 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-βrx-18</link>
+    <price>14.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>fd375c4d-fde0-38b8-539d-1c927e2d6263</uniqueid>
     <name>Χειροποίητο γούρι  G.31</name>
     <sku>02c8a3b2-021f-c747-ac62-e36d81d29d9c</sku>
@@ -6296,6 +6348,19 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-ελαστικό-βραχιόλι-4</link>
     <price>7.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>670cac90-d935-7f3e-44c8-fc6d3b97d88b</uniqueid>
+    <name>Χειροποίητο κολιέ  NCH. 20</name>
+    <sku>98f3536f-26ca-80c1-bb37-0392c4682774</sku>
+    <description>Χειροποίητο κολιέ με μαργαριτάρια, κρύσταλλα και αιματιτη  με επιχρυσωμένο ματάκ και ατσάλινο τελείωμα. Μηκος 45 έως 50 εκατοστά</description>
+    <image>https://static.wixstatic.com/media/2cbaff_28e41282470344e3828ce4f47f14ed44~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>19 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/χειροποίητο-κολιέ-nch-20</link>
+    <price>16.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -6509,6 +6574,19 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-κολιέ-nch-18</link>
     <price>13.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>b3bc4906-ccc5-7b3b-e445-d7f632bf135c</uniqueid>
+    <name>Χειροποίητο κολιέ. NCH.19</name>
+    <sku>4c43b6f9-333a-84c4-1bba-2809cd40eca3</sku>
+    <description>Χειροποίητο κολιέ με μακραμε και σχοινί με λευκές πέρλες και χρωματιστες χάντρες ροκάι. Μήκος 42 έως 50 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_b24bb7cfe3ff454ea82f98b2f9d880e1~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>15 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/χειροποίητο-κολιέ-nch-19</link>
+    <price>7.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
