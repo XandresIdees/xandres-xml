@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-08-08 06:48</created_at>
+  <created_at>2023-08-24 10:32</created_at>
   <product>
     <uniqueid>a5a25aea-b148-51d8-f7a4-10a256b4dc6d</uniqueid>
     <name> Σκουλαρίκια από ατσάλι. ΕST. 39</name>
@@ -342,19 +342,6 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/αντρικό-ατσάλινο-βραχιόλι-όνυχας-mb-02</link>
     <price>16.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>ba831f8e-a926-1eda-4862-8936b6407101</uniqueid>
-    <name>Αντρικό βραχιόλι με ημιπολύτιμες πέτρες MB.11</name>
-    <sku>457ce071-56d9-e125-b79d-76c949bf8efe</sku>
-    <description>Αντρικό ελαστικό βραχιόλι με ημιπολύτιμες πέτρες αχάτη μπλε και μαύρες </description>
-    <image>https://static.wixstatic.com/media/2cbaff_e1edb44bea2942e28c684fa3a523d052~mv2.png</image>
-    <category>Βραχιόλι</category>
-    <weight>20gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/αντρικό-βραχιόλι-με-ημιπολύτιμες-πέτρες-mb-11</link>
-    <price>7.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -978,23 +965,6 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-χρυσή-απόχρωση-9</link>
     <price>14.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>80a57878-2d7c-0108-94cb-3ac42f34b711</uniqueid>
-    <name>Ατσάλινα σκουλαρίκια σε χρυσή απόχρωση ΕST13</name>
-    <sku>7f5a8787-d283-fef7-6b34-c53bd0cb48ee</sku>
-    <description>Ατσάλινα σκουλαρίκια σε χρυσή απόχρωση 3 σειρα με 3 κύκλους  ενωμένους μεταξύ τους  και διάμετρο 3.30cm</description>
-    <image>https://static.wixstatic.com/media/2cbaff_177e3d99114a46659160371fad9949cd~mv2.jpg</image>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_35a6b250df7b407e92ec2a887709174f~mv2.png</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_c62d8cffda0d4e4ab099130cc1901bb8~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/2cbaff_24ad9ad212914e6bbf1b87e487e86f44~mv2.jpg</additionalImage>
-    <category>Σκουλαρίκια</category>
-    <size>3cm</size>
-    <weight>8gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/ατσάλινα-σκουλαρίκια-σε-χρυσή-απόχρωση-5</link>
-    <price>16.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -2850,19 +2820,6 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <uniqueid>528cb45f-f0dd-6f8a-2b3c-8711055a103b</uniqueid>
-    <name>Ατσάλινος γυναικείος  επιχρυσωμένος Σταυρός NST.532</name>
-    <sku>ad734ba0-0f22-9075-d4c3-78eefaa5efc4</sku>
-    <description>Ατσάλινος γυναικείος Σταυρός επιχρυσωμένος με κρύσταλλα και ατσάλινη επιχρυσωμένη αλυσίδα.Διαστάσεις 40-45cm.</description>
-    <image>https://static.wixstatic.com/media/2cbaff_5ec1e49b50554ed5856b85e09513c908~mv2.png</image>
-    <category>Σταυρός</category>
-    <weight>5gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/ατσάλινος-γυναικείος-σταυρός</link>
-    <price>17.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <uniqueid>7df200d0-96ef-073d-c069-77462e5c4aaa</uniqueid>
     <name>Ατσάλινος γυναικείος Σταυρός NST.531</name>
     <sku>820dff2f-6910-f8c2-3f96-88b9d1a3b555</sku>
@@ -4364,6 +4321,20 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>ade5fce3-01f0-ddd6-6b87-05da5186e2dc</uniqueid>
+    <name>Κολιέ από ημιπολύτιμες πέτρες. NH 12</name>
+    <sku>521a031c-fe0f-2229-9478-fa25ae791d23</sku>
+    <description>Κολιέ με ημιπολύτιμες πέτρες και κρύσταλλα από την μία πλευρά και ατσάλινη αλυσίδα επιχρυσωμένη από την άλλη και με ατσάλινο τελείωμα. Μήκος 50 έως 53 εκατοστά. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_d46a6597903f4961a29e047f9e0219b3~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_5d19090844fc4722b534e2eecbc00ef5~mv2.jpg</additionalImage>
+    <category>Κολιέ</category>
+    <weight>20 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ημιπολύτιμες-πέτρες-nh-12</link>
+    <price>16.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>5793933c-60e2-b0de-718b-02f4d6a13b6b</uniqueid>
     <name>Κολιέ από ορείχαλκο .OR.15</name>
     <sku>a86c6cc3-9f1d-4f21-8e74-fd0b295ec494</sku>
@@ -4786,6 +4757,20 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>faa5e01f-ab8d-404c-99c9-ead3cb045b86</uniqueid>
+    <name>Κολιέ με ημιπολύτιμες πέτρες. NH.11</name>
+    <sku>055a1fe0-5472-bfb3-6636-152c34fba479</sku>
+    <description>Κολιέ χειροποίητο με μαργαριτάρια  περασμένα σε κορδόνι με κόμπο ανάμεσα τους νούμερο 8 σε   παστέλ  αποχρώσεις καιατσάλινοτελείωμα. Μήκος 47 έως 50 εκατοστά</description>
+    <image>https://static.wixstatic.com/media/2cbaff_8a48a8da2b7049db9bace8bde9567fb6~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_339b622a45d14ce5ae4e00e12178640c~mv2.jpg</additionalImage>
+    <category>Κολιέ</category>
+    <weight>28 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-με-ημιπολύτιμες-πέτρες-nh-11</link>
+    <price>36.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>495d27f0-db82-322b-ab6c-7571740613ec</uniqueid>
     <name>Κολιέ με κρίκους χρυσό OR.08</name>
     <sku>b6a2d80f-247d-cdd4-5493-8a8e8bf9ec13</sku>
@@ -4934,6 +4919,20 @@
     <weight>4gr</weight>
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-ροζ-χρυσό-ατσάλι-καρδιές-nst-565</link>
+    <price>15.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>dab8791f-4c7c-6a1f-1757-c44413eacca2</uniqueid>
+    <name>Κολιέ χειροποίητο. NCH 22</name>
+    <sku>254786e0-b383-95e0-e8a8-3bbbec15335d</sku>
+    <description>Κολιέ χειροποίητο με τυρκουαζ χάντρες και λευκό κοραλι με τρία ατσάλινα φλουριά και ατσάλινο τελείωμα. Μήκος 40 εως45 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_d369035ad5fc4d7a865c2736dbb65fe1~mv2.png</image>
+    <additionalImage>https://static.wixstatic.com/media/2cbaff_f3aba5bf12e74bec999ac611de35c13b~mv2.jpg</additionalImage>
+    <category>Κολιέ</category>
+    <weight>8 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-χειροποίητο-nch-22</link>
     <price>15.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
@@ -6026,19 +6025,6 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-brx-20</link>
     <price>11.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <uniqueid>821678f8-07d9-a646-ed5a-a621fa060cef</uniqueid>
-    <name>Χειροποίητο βραχιόλι  BRX.19</name>
-    <sku>7de98707-f826-59b9-12a5-59de05f9f310</sku>
-    <description>Χειροποίητο βραχιόλι με μαργαριτάρια και κεντρικό στοιχείο χρωματιστό μαργαριτάρι με ατσάλινο τελείωμα. Μήκος 18 έως 22 εκατοστά </description>
-    <image>https://static.wixstatic.com/media/2cbaff_3bddfdf876d24d5c82e52e6fd915496b~mv2.png</image>
-    <category>Βραχιολι</category>
-    <weight>8 gr</weight>
-    <manufactor>Χάντρες και ιδέες</manufactor>
-    <link>https://www.xantres-idees.com/product-page/χειροποίητο-βραχιόλι-brx-19</link>
-    <price>16.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
