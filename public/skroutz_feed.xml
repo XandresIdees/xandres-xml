@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-09-27 08:32</created_at>
+  <created_at>2023-09-28 17:14</created_at>
   <product>
     <uniqueid>e33e77f2-f469-c78f-5164-e7aca44cbb8e</uniqueid>
     <name>Glam επιχρυσωμένα σκουλαρικια Ε.317</name>
@@ -4331,6 +4331,32 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>73eeb555-da88-1610-9858-bf12929dc5ed</uniqueid>
+    <name>Κολιέ από ημιπολύτιμες πέτρες. ΝΗ.16</name>
+    <sku>8c114aaa-2577-e9ef-67a7-40ed6d623a12</sku>
+    <description>Κολιέ με ημιπολύτιμες πέτρες κρύσταλλα μαργαριτάρια και αχάτη σε πράσινες αποχρώσεις. Μήκος 60 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_8d6fc91f3b7f42cd96c1bbd9026f26dc~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>44 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ημιπολύτιμες-πέτρες-νη-16</link>
+    <price>17.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>73c436d5-1ba1-e163-2811-301b3792b063</uniqueid>
+    <name>Κολιέ από ημιπολύτιμες πέτρες. ΝΗ.17</name>
+    <sku>8c3bc92a-e45e-1e9c-d7ee-cfe4c86d4f9c</sku>
+    <description>Κολιέ με ημιπολύτιμες πέτρες ονυχα, μάργαρο και μεγάλο μαύρο κρύσταλλο δεμένα μεταξύ με σχοινί και μονόπετρο δαχτυλίδι. Μήκος 60 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_691d5c82acd249eba164a38e7340a286~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>27 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-από-ημιπολύτιμες-πέτρες-νη-18</link>
+    <price>19.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>5793933c-60e2-b0de-718b-02f4d6a13b6b</uniqueid>
     <name>Κολιέ από ορείχαλκο .OR.15</name>
     <sku>a86c6cc3-9f1d-4f21-8e74-fd0b295ec494</sku>
@@ -4779,6 +4805,19 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
+    <uniqueid>1c225105-1f00-f591-e1a1-22f8318de843</uniqueid>
+    <name>Κολιέ με ημιπολύτιμες πέτρες. NH 15</name>
+    <sku>e3ddaefa-e0ff-0a6e-1e5e-dd07ce7217bc</sku>
+    <description>Κολιέ με ημιπολύτιμες πέτρες αποτελούμενο από ονυχα, μαργαριτάρια, κεραμικά στοιχεία και στρογγυλό μοτιφ από επιχρυσωμένο ατσάλι με δεντράκι. Μήκος 50 έως 54 εκατοστά. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_c90c22b1431642cea6f60e3d6110d520~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>28 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-με-ημιπολύτιμες-πέτρες-nh-15</link>
+    <price>17.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
     <uniqueid>faa5e01f-ab8d-404c-99c9-ead3cb045b86</uniqueid>
     <name>Κολιέ με ημιπολύτιμες πέτρες. NH.11</name>
     <sku>055a1fe0-5472-bfb3-6636-152c34fba479</sku>
@@ -4790,6 +4829,58 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/κολιέ-με-ημιπολύτιμες-πέτρες-nh-11</link>
     <price>36.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>cd92a484-6999-7466-6a9e-479f915d35c0</uniqueid>
+    <name>Κολιέ με ημιπολύτιμες πέτρες. NH.13</name>
+    <sku>326d5b7b-9666-8b99-9561-b8606ea2ca3f</sku>
+    <description>Κολιέ με ημιπολύτιμες πέτρες αποτελούμενο από κοραλι και κρύσταλλα. Μηκος 56 εκατοστά. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_986dd7c90c3641ceb0dd0593bbee5a29~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>80 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-με-ημιπολύτιμες-πέτρες-nh-13</link>
+    <price>17.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>30a925f1-0302-ac49-3120-1ac472a87669</uniqueid>
+    <name>Κολιέ με ημιπολύτιμες πέτρες. NH.14</name>
+    <sku>cf56da0e-fcfd-53b6-cedf-e53b8d578996</sku>
+    <description>Κολιέ με ημιπολύτιμες πέτρες κρύσταλλα Μπορντό σε δύο μεγέθη. Μηκος 46 έως 50 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_3285e931d68f493b8d1910fcff6537c0~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>45 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-με-ημιπολύτιμες-πέτρες-nh-14</link>
+    <price>14.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>c2e78f44-c184-1a55-24c5-32a45c31e3ad</uniqueid>
+    <name>Κολιέ με ημιπολύτιμες πέτρες. ΝΗ.18</name>
+    <sku>3d1870bb-3e7b-e5aa-db3a-cd5ba3ce1c52</sku>
+    <description>Κολιέ με ημιπολύτιμες πέτρες αχάτη και κρύσταλλα σε μπλε και μαύρο συνδυασμό στο πάνω μέρος αλυσίδα χρυσή. Μήκος 115 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_0da5a18079ee44ed9732b4cc5138168c~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>38 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-με-ημιπολύτιμες-πέτρες-νη-18</link>
+    <price>23.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>ccd8f75e-f69a-6eae-fb98-794539db4d36</uniqueid>
+    <name>Κολιέ με ημιπολύτιμες πέτρες. ΝΗ.19</name>
+    <sku>332708a1-0965-9151-0467-86bac624b2c9</sku>
+    <description>Κολιέ με ημιπολύτιμες πέτρες σε αποχρώσεις του μωβ και κρύσταλλα  . Μήκος 94 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_34048e2a5e714011953498cbd6672bc1~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>35 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/κολιέ-με-ημιπολύτιμες-πέτρες-νη-19</link>
+    <price>23.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
