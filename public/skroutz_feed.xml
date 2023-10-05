@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <xandresidees>
-  <created_at>2023-09-28 17:14</created_at>
+  <created_at>2023-10-05 07:52</created_at>
   <product>
     <uniqueid>e33e77f2-f469-c78f-5164-e7aca44cbb8e</uniqueid>
     <name>Glam επιχρυσωμένα σκουλαρικια Ε.317</name>
@@ -2919,6 +2919,84 @@
     <manufactor>Χάντρες και ιδέες</manufactor>
     <link>https://www.xantres-idees.com/product-page/βραχιολι-από-ασήμι-925-bs-19</link>
     <price>35.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>04f445c6-abe3-75b3-1d84-f53958c0951b</uniqueid>
+    <name>Βραχιολι από ατσάλι .BRST 24</name>
+    <sku>fb0bba39-541c-8a4c-e27b-0ac6a73f6ae4</sku>
+    <description>Βραχιολι από ατσάλι επιχρυσωμένο με χοντρό ατσαλοσυρμα και ανοιγομενο στο κάτω μέρος. Μήκος/διάμετρο  6 gr</description>
+    <image>https://static.wixstatic.com/media/2cbaff_79c91034e271423c81a9b166ef0a8129~mv2.png</image>
+    <category>Βραχιολι</category>
+    <weight>18 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/βραχιολι-από-ατσάλι-brst-24</link>
+    <price>16.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>6b5ea609-9940-de21-ac84-274221be5fc9</uniqueid>
+    <name>Βραχιολι από ατσάλι. BRST 25</name>
+    <sku>94a159f6-66bf-21de-537b-d8bdde41a036</sku>
+    <description>Βραχιολι από ατσάλι με δύο σειρές ατσάλι σε ασημί απόχρωση ανοιγομενο στο κάτω μέρος. Μήκος/διάμετρο 6.50 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_df56ac2c846a4a47afcd8cdd87b82019~mv2.png</image>
+    <category>Βραχιολι</category>
+    <weight>15 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/βραχιολι-από-ατσάλι-brst-25</link>
+    <price>16.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>63ad8ce8-6f9d-f05b-9b04-a6fb93a9b635</uniqueid>
+    <name>Βραχιολι από ατσάλι. BRST. 22</name>
+    <sku>9c527317-9062-0fa4-64fb-59046c5649ca</sku>
+    <description>Βραχιολι από ατσάλι επιχρυσωμένο ανοιγομενο στο πάνω μέρος με δύο πράσινα κρύσταλλα. Μήκος/ διάμετρο 6.50 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_962f670deedb4cdbba331db76cad04fc~mv2.png</image>
+    <category>Βραχιολι</category>
+    <weight>18 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/βραχιολι-από-ατσάλι-brst-22</link>
+    <price>16.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>b3557193-1b61-ab95-67d2-be6225811757</uniqueid>
+    <name>Βραχιολι από ατσάλι. BRST. 23</name>
+    <sku>4caa8e6c-e49e-546a-982d-419dda7ee8a8</sku>
+    <description>Βραχιολι από ατσάλι με ατσαλοσυρμα χοντρό και ακυρωμένο στο κάτω μέρος. Μήκος/διάμετρο  6 εκατοστά </description>
+    <image>https://static.wixstatic.com/media/2cbaff_3ae1c2e6f4bb47bf80a5ceeba2cd86e7~mv2.png</image>
+    <category>Κολιέ</category>
+    <weight>19 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/βραχιολι-από-ατσάλι-brst-23</link>
+    <price>16.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>b2f5a75e-7c6e-6e71-3375-c733ca5dad14</uniqueid>
+    <name>Βραχιολι από ατσάλι. BRST.21</name>
+    <sku>4d0a58a1-8391-918e-cc8a-38cc35a252eb</sku>
+    <description>Βραχιολι από ατσάλι επιχρυσωμένο ανοιγομενο στο εμπρός μέρος με ατσάλι και φίλντισι. Μήκος/διάμετρο  5.50 εκατοστά. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_5792fc3038b04f0ca023264e97dc7159~mv2.png</image>
+    <category>Βραχιολι</category>
+    <weight>18  gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/βραχιολι-από-ατσάλι-brst-21</link>
+    <price>17.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+  </product>
+  <product>
+    <uniqueid>77f342fc-4e2d-39c9-134d-1bba71fe4e0d</uniqueid>
+    <name>Βραχιολι από ατσάλι. BRST.26</name>
+    <sku>880cbd03-b1d2-c636-ecb2-e4458e01b1f2</sku>
+    <description>Βραχιολι από ατσάλι επιχρυσωμένο με δύο σειρές ατσάλι και ανοιγομενο στο κάτω μέρος. Μήκος/διάμετρο 6.50 εκατοστά. </description>
+    <image>https://static.wixstatic.com/media/2cbaff_51db3636bef0427c935a05401d9c2432~mv2.png</image>
+    <category>Βραχιολι</category>
+    <weight>17 gr</weight>
+    <manufactor>Χάντρες και ιδέες</manufactor>
+    <link>https://www.xantres-idees.com/product-page/βραχιολι-από-ατσάλι-brst-26</link>
+    <price>16.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
